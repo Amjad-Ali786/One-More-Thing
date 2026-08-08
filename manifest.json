@@ -1,0 +1,17 @@
+{
+  "name": "One More Thing - Niche Knowledge & Research Generator",
+  "short_name": "One More Thing",
+  "description": "Minimalist Niche Knowledge Generator & Academic Research Explorer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%238b5cf6'/><text x='50' y='65' font-size='42' font-weight='bold' fill='white' text-anchor='middle'>1M</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
