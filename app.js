@@ -52,6 +52,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const directoryModal = document.getElementById('directoryModal');
   const directorySearchInput = document.getElementById('directorySearchInput');
   const directoryList = document.getElementById('directoryList');
+  const btnScrollTop = document.getElementById('btnScrollTop');
+  const btnScrollBottom = document.getElementById('btnScrollBottom');
+
+  const btnFirstTopic = document.getElementById('btnFirstTopic');
+  const btnPrevTopic = document.getElementById('btnPrevTopic');
+  const btnNextTopic = document.getElementById('btnNextTopic');
+  const btnLastTopic = document.getElementById('btnLastTopic');
+  const topicPositionBadge = document.getElementById('topicPositionBadge');
 
   const btnBookmarksDrawer = document.getElementById('btnBookmarksDrawer');
   const btnCloseBookmarks = document.getElementById('btnCloseBookmarks');
@@ -137,10 +145,23 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 2800);
   }
 
+  // --- Current Active Category Pool ---
+  function getActivePool() {
+    if (currentCategory === 'All') return TOPICS_DATA;
+    return TOPICS_DATA.filter(t => t.category === currentCategory);
+  }
+
   // --- Display Topic in Card ---
   function displayTopic(topic) {
     if (!topic) return;
     currentTopic = topic;
+
+    // Update position badge counter
+    const activePool = getActivePool();
+    const poolIndex = activePool.findIndex(t => t.id === topic.id);
+    if (poolIndex !== -1 && topicPositionBadge) {
+      topicPositionBadge.textContent = `Topic ${poolIndex + 1} of ${activePool.length}`;
+    }
 
     // Stop speaking if active
     stopAudio();
@@ -196,15 +217,56 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 200);
   }
 
+  // --- Sequential Navigation Handlers ---
+  function navigateSequential(action) {
+    const activePool = getActivePool();
+    if (activePool.length === 0) return;
+
+    let currentIndex = activePool.findIndex(t => t.id === currentTopic?.id);
+    if (currentIndex === -1) currentIndex = 0;
+
+    let targetIndex = currentIndex;
+    if (action === 'first') {
+      targetIndex = 0;
+    } else if (action === 'last') {
+      targetIndex = activePool.length - 1;
+    } else if (action === 'next') {
+      targetIndex = (currentIndex + 1) % activePool.length;
+    } else if (action === 'prev') {
+      targetIndex = (currentIndex - 1 + activePool.length) % activePool.length;
+    }
+
+    playUiSound('click');
+    displayTopic(activePool[targetIndex]);
+  }
+
+  if (btnFirstTopic) btnFirstTopic.addEventListener('click', () => navigateSequential('first'));
+  if (btnPrevTopic) btnPrevTopic.addEventListener('click', () => navigateSequential('prev'));
+  if (btnNextTopic) btnNextTopic.addEventListener('click', () => navigateSequential('next'));
+  if (btnLastTopic) btnLastTopic.addEventListener('click', () => navigateSequential('last'));
+
+  // --- Drawer Scroll to Top / Bottom ---
+  if (btnScrollTop) {
+    btnScrollTop.addEventListener('click', () => {
+      playUiSound('click');
+      const drawer = directoryModal.querySelector('.modal-drawer');
+      if (drawer) drawer.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+
+  if (btnScrollBottom) {
+    btnScrollBottom.addEventListener('click', () => {
+      playUiSound('click');
+      const drawer = directoryModal.querySelector('.modal-drawer');
+      if (drawer) drawer.scrollTo({ top: drawer.scrollHeight, behavior: 'smooth' });
+    });
+  }
+
   // --- Randomize Topic Engine ---
   function randomizeTopic() {
     playUiSound('randomize');
     
-    let filtered = TOPICS_DATA;
-    if (currentCategory !== 'All') {
-      filtered = TOPICS_DATA.filter(t => t.category === currentCategory);
-    }
-
+    let filtered = getActivePool();
     if (filtered.length === 0) return;
 
     // Pick random item avoiding same immediate repeat if possible

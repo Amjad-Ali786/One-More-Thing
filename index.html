@@ -152,6 +152,23 @@
       </section>
     </article>
 
+    <!-- Sequential Navigation & Position Bar -->
+    <div class="seq-nav-bar">
+      <button class="btn-seq" id="btnFirstTopic" title="Jump to First Topic (#1)">
+        <span>⏮️ First</span>
+      </button>
+      <button class="btn-seq" id="btnPrevTopic" title="Previous Topic">
+        <span>◀️ Prev</span>
+      </button>
+      <span class="topic-counter-badge" id="topicPositionBadge">Topic 1 of 900</span>
+      <button class="btn-seq" id="btnNextTopic" title="Next Topic">
+        <span>Next ▶️</span>
+      </button>
+      <button class="btn-seq" id="btnLastTopic" title="Jump to Last Topic (#900)">
+        <span>Last ⏭️</span>
+      </button>
+    </div>
+
     <!-- Controls Bar -->
     <div class="controls-bar">
       <button class="btn-randomize" id="btnRandomize">
@@ -203,6 +220,11 @@
             <line x1="6" y1="6" x2="18" y2="18"></line>
           </svg>
         </button>
+      </div>
+
+      <div class="drawer-jump-bar">
+        <button class="btn-drawer-jump" id="btnScrollTop">⬆️ First Topic (#1)</button>
+        <button class="btn-drawer-jump" id="btnScrollBottom">⬇️ Last Topic (#900)</button>
       </div>
 
       <div class="search-box">

@@ -10,12 +10,9 @@ try {
     $listener.Start()
     Write-Host "==========================================================" -ForegroundColor Green
     Write-Host "  One More Thing Web Application Server is Live!" -ForegroundColor Cyan
-    Write-Host "  URL: $prefix" -ForegroundColor Yellow
+    Write-Host "  Local URL: $prefix" -ForegroundColor Yellow
     Write-Host "  Press Ctrl+C in this terminal window to stop the server." -ForegroundColor Gray
     Write-Host "==========================================================" -ForegroundColor Green
-
-    # Automatically launch default browser
-    Start-Process $prefix
 
     while ($listener.IsListening) {
         $context = $listener.GetContext()
