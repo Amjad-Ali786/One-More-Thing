@@ -1,5 +1,6 @@
 /**
  * One More Thing - Niche Knowledge Explorer & Application Engine
+ * Supports 1,800+ Topics across 9 Fields with Card View & Continuous Scrollable Feed View
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -19,14 +20,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- State Variables ---
   let currentCategory = 'All';
   let currentTopic = null;
+  let viewMode = 'card'; // 'card' or 'feed'
   let bookmarks = JSON.parse(localStorage.getItem('onemorething_bookmarks') || localStorage.getItem('curiospire_bookmarks') || '[]');
   let synth = window.speechSynthesis || null;
   let currentUtterance = null;
   let isSpeaking = false;
   let audioCtx = null;
+  let wheelTimeout = null;
 
   // --- DOM Elements ---
   const topicCard = document.getElementById('topicCard');
+  const feedContainer = document.getElementById('feedContainer');
   const badgeCategory = document.getElementById('badgeCategory');
   const badgeDepth = document.getElementById('badgeDepth');
   const topicIdTag = document.getElementById('topicIdTag');
@@ -35,6 +39,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const topicQuote = document.getElementById('topicQuote');
   const topicSummary = document.getElementById('topicSummary');
   const sourcesList = document.getElementById('sourcesList');
+
+  const btnViewToggle = document.getElementById('btnViewToggle');
+  const viewModeLabel = document.getElementById('viewModeLabel');
+  const btnPillScrollLeft = document.getElementById('btnPillScrollLeft');
+  const btnPillScrollRight = document.getElementById('btnPillScrollRight');
 
   const btnRandomize = document.getElementById('btnRandomize');
   const btnListen = document.getElementById('btnListen');
@@ -45,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const pillsContainer = document.getElementById('pillsContainer');
   const brandIcon = document.getElementById('brandIcon');
-  const ambientBlob1 = document.getElementById('ambientBlob1');
+  const brandLogoLink = document.getElementById('brandLogoLink');
 
   const btnDirectoryDrawer = document.getElementById('btnDirectoryDrawer');
   const btnCloseDirectory = document.getElementById('btnCloseDirectory');
@@ -66,6 +75,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const bookmarksModal = document.getElementById('bookmarksModal');
   const bookmarksList = document.getElementById('bookmarksList');
   const bookmarkCount = document.getElementById('bookmarkCount');
+
+  const btnFloatTop = document.getElementById('btnFloatTop');
+  const btnFloatBottom = document.getElementById('btnFloatBottom');
 
   const btnThemeToggle = document.getElementById('btnThemeToggle');
   const themeIconSun = document.getElementById('themeIconSun');
@@ -101,42 +113,25 @@ document.addEventListener('DOMContentLoaded', () => {
       } else if (type === 'bookmark') {
         osc.type = 'triangle';
         osc.frequency.setValueAtTime(523.25, audioCtx.currentTime); // C5
-        osc.frequency.setValueAtTime(659.25, audioCtx.currentTime + 0.08); // E5
-        gain.gain.setValueAtTime(0.15, audioCtx.currentTime);
-        gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.2);
+        osc.frequency.exponentialRampToValueAtTime(659.25, audioCtx.currentTime + 0.15); // E5
+        gain.gain.setValueAtTime(0.1, audioCtx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.15);
         osc.start();
-        osc.stop(audioCtx.currentTime + 0.2);
+        osc.stop(audioCtx.currentTime + 0.15);
       } else {
         osc.type = 'sine';
         osc.frequency.setValueAtTime(440, audioCtx.currentTime);
-        gain.gain.setValueAtTime(0.08, audioCtx.currentTime);
-        gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.05);
+        gain.gain.setValueAtTime(0.05, audioCtx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 0.05);
         osc.start();
         osc.stop(audioCtx.currentTime + 0.05);
       }
     } catch (e) {
-      // Audio context fallback if muted by browser policy
+      // Audio fallback silent
     }
   }
 
-  // --- Theme Toggle ---
-  const savedTheme = localStorage.getItem('curiospire_theme') || 'dark';
-  if (savedTheme === 'light') {
-    document.body.classList.add('light-theme');
-    themeIconSun.style.display = 'block';
-    themeIconMoon.style.display = 'none';
-  }
-
-  btnThemeToggle.addEventListener('click', () => {
-    playUiSound('click');
-    document.body.classList.toggle('light-theme');
-    const isLight = document.body.classList.contains('light-theme');
-    localStorage.setItem('curiospire_theme', isLight ? 'light' : 'dark');
-    themeIconSun.style.display = isLight ? 'block' : 'none';
-    themeIconMoon.style.display = isLight ? 'none' : 'block';
-  });
-
-  // --- Toast Notification ---
+  // --- Toast Notification Helper ---
   function showToast(message) {
     toastMessage.textContent = message;
     toastNotification.classList.add('active');
@@ -151,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return TOPICS_DATA.filter(t => t.category === currentCategory);
   }
 
-  // --- Display Topic in Card ---
+  // --- Display Topic in Card View ---
   function displayTopic(topic) {
     if (!topic) return;
     currentTopic = topic;
@@ -217,6 +212,118 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 200);
   }
 
+  // --- Render Continuous Scrollable Feed ---
+  function renderScrollableFeed() {
+    if (!feedContainer) return;
+    feedContainer.innerHTML = '';
+    const pool = getActivePool();
+
+    if (pool.length === 0) {
+      feedContainer.innerHTML = '<div style="text-align:center; padding:3rem; color:var(--text-muted);">No topics found in this category.</div>';
+      return;
+    }
+
+    pool.forEach((topic, idx) => {
+      const card = document.createElement('article');
+      card.className = 'feed-topic-card';
+      card.id = `feed-topic-${topic.id}`;
+      const themeColor = CATEGORY_COLORS[topic.category] || '#8b5cf6';
+
+      let sourcesHtml = '';
+      if (topic.sources && topic.sources.length > 0) {
+        sourcesHtml = topic.sources.map(src => `
+          <li class="source-item-wrap">
+            <a href="${src.url}" target="_blank" rel="noopener noreferrer" class="source-item">
+              <div class="source-info">
+                <span class="source-title">${src.title} <span class="source-badge">${src.type || 'Source'}</span></span>
+                <span class="source-desc">${src.sourceName} — ${src.description}</span>
+              </div>
+            </a>
+          </li>
+        `).join('');
+      }
+
+      const isBookmarked = bookmarks.includes(topic.id);
+
+      card.innerHTML = `
+        <div class="feed-card-header">
+          <div class="meta-badges">
+            <span class="badge-category" style="background:${themeColor}22; color:${themeColor}; border:1px solid ${themeColor}44;">${topic.category}</span>
+            <span class="badge-depth">${topic.depth || 'Academic Deep Dive'}</span>
+          </div>
+          <span class="topic-id-tag">#${topic.id} (${idx + 1}/${pool.length})</span>
+        </div>
+        <h2 class="topic-title">${topic.title}</h2>
+        <p class="topic-subtitle">${topic.subtitle}</p>
+        <blockquote class="quote-box" style="border-left-color:${themeColor};">“${topic.keyTakeaway}”</blockquote>
+        <div class="topic-summary">${topic.summary}</div>
+        ${sourcesHtml ? `<ul class="sources-list" style="margin-top:1.25rem;">${sourcesHtml}</ul>` : ''}
+        <div class="feed-card-actions">
+          <button class="btn-tool feed-bm-btn ${isBookmarked ? 'active-bookmark' : ''}" data-id="${topic.id}">
+            <span>${isBookmarked ? 'Saved' : 'Save'}</span>
+          </button>
+          <button class="btn-tool feed-cite-btn" data-id="${topic.id}">
+            <span>Cite</span>
+          </button>
+        </div>
+      `;
+
+      const bmBtn = card.querySelector('.feed-bm-btn');
+      bmBtn.addEventListener('click', () => {
+        toggleBookmarkById(topic.id, bmBtn);
+      });
+
+      const citeBtn = card.querySelector('.feed-cite-btn');
+      citeBtn.addEventListener('click', () => {
+        copyCitationForTopic(topic);
+      });
+
+      feedContainer.appendChild(card);
+    });
+  }
+
+  // --- Toggle View Modes (Card vs Feed) ---
+  function setViewMode(mode) {
+    viewMode = mode;
+    const seqNav = document.querySelector('.sequential-nav-bar');
+    const ctrlBar = document.querySelector('.controls-bar');
+
+    if (viewMode === 'feed') {
+      topicCard.style.display = 'none';
+      if (seqNav) seqNav.style.display = 'none';
+      if (ctrlBar) ctrlBar.style.display = 'none';
+      feedContainer.style.display = 'flex';
+      viewModeLabel.textContent = 'Card View';
+      renderScrollableFeed();
+    } else {
+      feedContainer.style.display = 'none';
+      topicCard.style.display = 'block';
+      if (seqNav) seqNav.style.display = 'flex';
+      if (ctrlBar) ctrlBar.style.display = 'flex';
+      viewModeLabel.textContent = 'Scroll Feed';
+    }
+  }
+
+  if (btnViewToggle) {
+    btnViewToggle.addEventListener('click', () => {
+      playUiSound('click');
+      setViewMode(viewMode === 'card' ? 'feed' : 'card');
+    });
+  }
+
+  // --- Category Scroll Arrows ---
+  if (btnPillScrollLeft && pillsContainer) {
+    btnPillScrollLeft.addEventListener('click', () => {
+      pillsContainer.scrollBy({ left: -240, behavior: 'smooth' });
+    });
+  }
+
+  if (btnPillScrollRight && pillsContainer) {
+    btnPillScrollRight.addEventListener('click', () => {
+      pillsContainer.scrollBy({ left: 240, behavior: 'smooth' });
+    });
+  }
+
   // --- Sequential Navigation Handlers ---
   function navigateSequential(action) {
     const activePool = getActivePool();
@@ -245,6 +352,37 @@ document.addEventListener('DOMContentLoaded', () => {
   if (btnNextTopic) btnNextTopic.addEventListener('click', () => navigateSequential('next'));
   if (btnLastTopic) btnLastTopic.addEventListener('click', () => navigateSequential('last'));
 
+  // --- Mouse Wheel Scroll in Card View ---
+  if (topicCard) {
+    topicCard.addEventListener('wheel', (e) => {
+      if (viewMode !== 'card') return;
+      if (wheelTimeout) return;
+      if (Math.abs(e.deltaY) > 25) {
+        wheelTimeout = setTimeout(() => { wheelTimeout = null; }, 350);
+        if (e.deltaY > 0) {
+          navigateSequential('next');
+        } else {
+          navigateSequential('prev');
+        }
+      }
+    }, { passive: true });
+  }
+
+  // --- Floating Action Scroll Controls ---
+  if (btnFloatTop) {
+    btnFloatTop.addEventListener('click', () => {
+      playUiSound('click');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+
+  if (btnFloatBottom) {
+    btnFloatBottom.addEventListener('click', () => {
+      playUiSound('click');
+      window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+    });
+  }
+
   // --- Drawer Scroll to Top / Bottom ---
   if (btnScrollTop) {
     btnScrollTop.addEventListener('click', () => {
@@ -269,7 +407,6 @@ document.addEventListener('DOMContentLoaded', () => {
     let filtered = getActivePool();
     if (filtered.length === 0) return;
 
-    // Pick random item avoiding same immediate repeat if possible
     let nextTopic = filtered[Math.floor(Math.random() * filtered.length)];
     if (filtered.length > 1 && currentTopic && nextTopic.id === currentTopic.id) {
       const candidates = filtered.filter(t => t.id !== currentTopic.id);
@@ -277,6 +414,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     displayTopic(nextTopic);
+    if (viewMode === 'feed') {
+      renderScrollableFeed();
+    }
   }
 
   // --- Category Filter Pills Event Handler ---
@@ -354,38 +494,55 @@ document.addEventListener('DOMContentLoaded', () => {
     bookmarkCount.textContent = bookmarks.length;
   }
 
-  function toggleBookmark() {
-    if (!currentTopic) return;
-
-    const index = bookmarks.indexOf(currentTopic.id);
+  function toggleBookmarkById(id, btnElem) {
+    const index = bookmarks.indexOf(id);
     if (index > -1) {
       bookmarks.splice(index, 1);
       showToast('Removed from bookmarks');
     } else {
-      bookmarks.push(currentTopic.id);
+      bookmarks.push(id);
       playUiSound('bookmark');
       showToast('Saved to bookmarks!');
     }
+    localStorage.setItem('onemorething_bookmarks', JSON.stringify(bookmarks));
+    bookmarkCount.textContent = bookmarks.length;
 
-    localStorage.setItem('curiospire_bookmarks', JSON.stringify(bookmarks));
-    updateBookmarkBtnState();
+    if (btnElem) {
+      const isBookmarked = bookmarks.includes(id);
+      btnElem.classList.toggle('active-bookmark', isBookmarked);
+      const span = btnElem.querySelector('span');
+      if (span) span.textContent = isBookmarked ? 'Saved' : 'Save';
+    }
+
+    if (currentTopic && currentTopic.id === id) {
+      updateBookmarkBtnState();
+    }
     renderBookmarksList();
+  }
+
+  function toggleBookmark() {
+    if (!currentTopic) return;
+    toggleBookmarkById(currentTopic.id, btnBookmark);
   }
 
   btnBookmark.addEventListener('click', toggleBookmark);
 
-  // --- Copy Citation / Share ---
-  btnCopyCitation.addEventListener('click', () => {
-    if (!currentTopic) return;
+  // --- Copy Citation / Share Helper ---
+  function copyCitationForTopic(topic) {
+    if (!topic) return;
     playUiSound('click');
 
-    const citationText = `One More Thing Research Topic: "${currentTopic.title}" (${currentTopic.category})\nSummary: ${currentTopic.summary}\nPrimary Source: ${currentTopic.sources[0] ? currentTopic.sources[0].url : ''}`;
+    const citationText = `One More Thing Research Topic: "${topic.title}" (${topic.category})\nSummary: ${topic.summary}\nPrimary Source: ${topic.sources && topic.sources[0] ? topic.sources[0].url : ''}`;
     
     navigator.clipboard.writeText(citationText).then(() => {
       showToast('Citation copied to clipboard!');
     }).catch(() => {
       showToast('Copied summary to clipboard');
     });
+  }
+
+  btnCopyCitation.addEventListener('click', () => {
+    if (currentTopic) copyCitationForTopic(currentTopic);
   });
 
   // --- Directory Modal Drawer ---
@@ -405,6 +562,11 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    // Update jump button text
+    if (btnScrollBottom) {
+      btnScrollBottom.textContent = `⬇️ Last Topic (#${filtered.length})`;
+    }
+
     filtered.forEach(topic => {
       const li = document.createElement('li');
       li.className = 'drawer-item';
@@ -417,6 +579,10 @@ document.addEventListener('DOMContentLoaded', () => {
       li.addEventListener('click', () => {
         playUiSound('click');
         displayTopic(topic);
+        if (viewMode === 'feed') {
+          const targetCard = document.getElementById(`feed-topic-${topic.id}`);
+          if (targetCard) targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
         closeModals();
       });
       directoryList.appendChild(li);
@@ -475,7 +641,6 @@ document.addEventListener('DOMContentLoaded', () => {
     bookmarksModal.classList.remove('active');
   }
 
-  // Close modals on clicking overlay background
   [directoryModal, bookmarksModal].forEach(modal => {
     modal.addEventListener('click', (e) => {
       if (e.target === modal) {
@@ -483,6 +648,26 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   });
+
+  // --- Theme Toggle (Dark/Light) ---
+  function toggleTheme() {
+    playUiSound('click');
+    document.body.classList.toggle('light-theme');
+    const isLight = document.body.classList.contains('light-theme');
+    themeIconSun.style.display = isLight ? 'block' : 'none';
+    themeIconMoon.style.display = isLight ? 'none' : 'block';
+    localStorage.setItem('onemorething_theme', isLight ? 'light' : 'dark');
+  }
+
+  if (btnThemeToggle) {
+    btnThemeToggle.addEventListener('click', toggleTheme);
+    const savedTheme = localStorage.getItem('onemorething_theme');
+    if (savedTheme === 'light') {
+      document.body.classList.add('light-theme');
+      themeIconSun.style.display = 'block';
+      themeIconMoon.style.display = 'none';
+    }
+  }
 
   // --- Keyboard Shortcuts ---
   document.addEventListener('keydown', (e) => {

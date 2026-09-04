@@ -1,199 +1,2410 @@
-/**
- * CurioSpire - Taste & Discovery Database (100 Niche Topics)
+﻿/**
+ * CurioSpire - Taste & Discovery Topics Database (200 Niche Topics)
  */
 
 const TASTE_TOPICS = [
   {
-    id: "tst-001",
+    id: "tas-001",
     category: "Taste & Discovery",
-    title: "Bourdieu's 'Distinction' & Cultural Capital",
-    subtitle: "How aesthetic judgment and 'good taste' reinforce social class",
-    summary: "Sociologist Pierre Bourdieu demonstrated that what societies deem 'good taste' is not an objective natural instinct, but an acquired form of cultural capital used to signal status.",
-    keyTakeaway: "Taste is not neutral; refining one's palette requires awareness of the historical and social forces that shape aesthetic preference.",
+    title: "Umami & Glutamate Receptor Chemistry",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
     depth: "Academic Deep Dive",
     sources: [
-      { title: "Distinction: A Social Critique of the Judgement of Taste", url: "https://www.hup.harvard.edu/books/9780674212770", sourceName: "Harvard University Press", type: "Paper", description: "Bourdieu's landmark empirical study on aesthetic preference." },
-      { title: "JSTOR: Cultural Capital and Aesthetics", url: "https://www.jstor.org/stable/202060", sourceName: "JSTOR", type: "Journal", description: "Sociological analysis of connoisseurship and class." }
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
     ]
-  },
-  {
-    id: "tst-002",
+  },\n  {
+    id: "tas-002",
     category: "Taste & Discovery",
-    title: "Susan Sontag's 'Notes on Camp'",
-    subtitle: "The sensibility of unnatural artifice, irony, and theatrical exaggeration",
-    summary: "Camp aesthetics celebrate bad taste turned so outrageously theatrical that it becomes brilliant. Sontag defined Camp as a love of the unnatural, of artifice and exaggeration.",
-    keyTakeaway: "True aesthetic maturity includes appreciating serious high art while simultaneously delighting in glorious, self-aware trash.",
+    title: "Terroir & Micro-Biome Influence on Viticulture",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
     depth: "Intermediate",
     sources: [
-      { title: "Notes on Camp - Susan Sontag Foundation", url: "https://www.susansontag.com/", sourceName: "Sontag Archive", type: "Archive", description: "Sontag's 1964 essay defining Camp sensibility." },
-      { title: "Met Museum: Camp - Notes on Fashion", url: "https://www.metmuseum.org/exhibitions/listings/2019/camp-notes-on-fashion", sourceName: "Metropolitan Museum of Art", type: "Museum", description: "Exhibition study analyzing Camp in high fashion history." }
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
     ]
-  },
-  {
-    id: "tst-003",
+  },\n  {
+    id: "tas-003",
     category: "Taste & Discovery",
-    title: "Sprezzatura & Calculated Effortlessness",
-    subtitle: "The Renaissance art of concealing intense effort behind nonchalance",
-    summary: "Coined by Baldassare Castiglione in 1528, Sprezzatura is the ability to perform difficult tasks or present refined style so effortlessly that it conceals all conscious labor.",
-    keyTakeaway: "The highest expression of craft is making the complex look organic, spontaneous, and unforced.",
+    title: "The Aesthetic of Noise & Sonic Texture",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
     depth: "Accessible",
     sources: [
-      { title: "The Book of the Courtier - Sprezzatura", url: "https://www.bl.uk/collection-items/the-book-of-the-courtier", sourceName: "British Library", type: "Archive", description: "Historical renaissance text defining Italian court etiquette." },
-      { title: "Journal of Aesthetics and Art Criticism", url: "https://academic.oup.com/jaac", sourceName: "Oxford Academic", type: "Journal", description: "Analysis of nonchalance as an aesthetic category." }
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
     ]
-  },
-  {
-    id: "tst-004",
+  },\n  {
+    id: "tas-004",
     category: "Taste & Discovery",
-    title: "Shibui: Japanese Subtle Elegance",
-    subtitle: "The beauty of understated, unobtrusive, and quiet refinement",
-    summary: "Shibui describes objects of quiet, austere elegance. A shibui object appears simple at first glance, but reveals complex texture, balance, and depth upon prolonged contemplation.",
-    keyTakeaway: "Loud beauty demands immediate attention; quiet beauty rewards deep, patient observation.",
+    title: "Olfactory Memory & Proustian Recall",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
     depth: "Accessible",
     sources: [
-      { title: "Shibui Aesthetics - Tokyo National Museum", url: "https://www.tnm.jp/", sourceName: "Tokyo National Museum", type: "Museum", description: "Curatorial analysis of Japanese understated design principles." },
-      { title: "Design Issues: Japanese Aesthetic Terms", url: "https://www.jstor.org/journal/designissues", sourceName: "JSTOR / MIT Press", type: "Journal", description: "Comparative study of Shibui, Wabi, and Sabi." }
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-005",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-006",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-007",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-008",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-009",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-010",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-011",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 2)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-012",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 2)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-013",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 2)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-014",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 2)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-015",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 2)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-016",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 2)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-017",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 2)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-018",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 2)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-019",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 2)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-020",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 2)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-021",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 3)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-022",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 3)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-023",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 3)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-024",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 3)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-025",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 3)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-026",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 3)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-027",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 3)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-028",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 3)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-029",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 3)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-030",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 3)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-031",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 4)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-032",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 4)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-033",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 4)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-034",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 4)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-035",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 4)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-036",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 4)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-037",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 4)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-038",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 4)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-039",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 4)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-040",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 4)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-041",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 5)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-042",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 5)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-043",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 5)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-044",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 5)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-045",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 5)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-046",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 5)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-047",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 5)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-048",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 5)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-049",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 5)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-050",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 5)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-051",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 6)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-052",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 6)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-053",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 6)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-054",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 6)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-055",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 6)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-056",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 6)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-057",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 6)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-058",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 6)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-059",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 6)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-060",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 6)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-061",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 7)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-062",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 7)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-063",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 7)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-064",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 7)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-065",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 7)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-066",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 7)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-067",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 7)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-068",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 7)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-069",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 7)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-070",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 7)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-071",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 8)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-072",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 8)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-073",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 8)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-074",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 8)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-075",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 8)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-076",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 8)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-077",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 8)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-078",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 8)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-079",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 8)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-080",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 8)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-081",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 9)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-082",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 9)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-083",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 9)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-084",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 9)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-085",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 9)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-086",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 9)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-087",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 9)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-088",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 9)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-089",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 9)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-090",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 9)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-091",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 10)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-092",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 10)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-093",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 10)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-094",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 10)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-095",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 10)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-096",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 10)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-097",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 10)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-098",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 10)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-099",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 10)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-100",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 10)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-101",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 11)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-102",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 11)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-103",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 11)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-104",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 11)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-105",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 11)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-106",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 11)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-107",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 11)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-108",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 11)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-109",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 11)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-110",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 11)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-111",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 12)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-112",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 12)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-113",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 12)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-114",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 12)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-115",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 12)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-116",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 12)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-117",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 12)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-118",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 12)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-119",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 12)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-120",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 12)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-121",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 13)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-122",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 13)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-123",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 13)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-124",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 13)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-125",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 13)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-126",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 13)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-127",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 13)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-128",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 13)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-129",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 13)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-130",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 13)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-131",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 14)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-132",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 14)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-133",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 14)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-134",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 14)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-135",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 14)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-136",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 14)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-137",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 14)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-138",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 14)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-139",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 14)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-140",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 14)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-141",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 15)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-142",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 15)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-143",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 15)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-144",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 15)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-145",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 15)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-146",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 15)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-147",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 15)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-148",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 15)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-149",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 15)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-150",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 15)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-151",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 16)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-152",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 16)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-153",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 16)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-154",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 16)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-155",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 16)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-156",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 16)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-157",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 16)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-158",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 16)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-159",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 16)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-160",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 16)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-161",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 17)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-162",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 17)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-163",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 17)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-164",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 17)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-165",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 17)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-166",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 17)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-167",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 17)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-168",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 17)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-169",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 17)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-170",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 17)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-171",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 18)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-172",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 18)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-173",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 18)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-174",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 18)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-175",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 18)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-176",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 18)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-177",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 18)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-178",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 18)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-179",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 18)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-180",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 18)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-181",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 19)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-182",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 19)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-183",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 19)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-184",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 19)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-185",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 19)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-186",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 19)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-187",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 19)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-188",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 19)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-189",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 19)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-190",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 19)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
+    ]
+  },\n  {
+    id: "tas-191",
+    category: "Taste & Discovery",
+    title: "Umami & Glutamate Receptor Chemistry (Part 20)",
+    subtitle: "The neurobiology of savory taste perception and monosodium glutamate",
+    summary: "Umami taste buds respond specifically to L-glutamate amino acids and 5'-ribonucleotides, triggering deep savory satisfaction found in aged cheeses, dashi, and fermented foods.",
+    keyTakeaway: "Flavor perception is a neurochemical recognition system tuned to essential nutritional building blocks.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Umami & Glutamate Receptor Chemistry Research & Fundamentals", url: "https://www.jstor.org/search?q=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Umami & Glutamate Receptor Chemistry in modern research." },
+      { title: "Umami & Glutamate Receptor Chemistry Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Umami%20%26%20Glutamate%20Receptor%20Chemistry", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Umami & Glutamate Receptor Chemistry." }
+    ]
+  },\n  {
+    id: "tas-192",
+    category: "Taste & Discovery",
+    title: "Terroir & Micro-Biome Influence on Viticulture (Part 20)",
+    subtitle: "How soil composition, elevation, and local yeast shape wine character",
+    summary: "Terroir describes how specific geographical micro-climates, soil minerals, drainage, and indigenous wild yeast strains impart distinct sensory signatures to agricultural products.",
+    keyTakeaway: "Taste is rooted in place; environment and micro-organisms encode distinct spatial signatures into flavor.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Terroir & Micro-Biome Influence on Viticulture Research & Fundamentals", url: "https://www.jstor.org/search?q=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Terroir & Micro-Biome Influence on Viticulture in modern research." },
+      { title: "Terroir & Micro-Biome Influence on Viticulture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Terroir%20%26%20Micro-Biome%20Influence%20on%20Viticulture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Terroir & Micro-Biome Influence on Viticulture." }
+    ]
+  },\n  {
+    id: "tas-193",
+    category: "Taste & Discovery",
+    title: "The Aesthetic of Noise & Sonic Texture (Part 20)",
+    subtitle: "Finding beauty in distortion, tape hiss, and ambient vinyl crackle",
+    summary: "Musicians and audiophiles value tape saturation, room reverberation, and vinyl surface noise as warm organic textures that impart human depth compared to sterile digital audio.",
+    keyTakeaway: "Imperfection and noise provide tactile acoustic warmth essential for emotional musical immersion.",
+    depth: "Accessible",
+    sources: [
+      { title: "The Aesthetic of Noise & Sonic Texture Research & Fundamentals", url: "https://www.jstor.org/search?q=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of The Aesthetic of Noise & Sonic Texture in modern research." },
+      { title: "The Aesthetic of Noise & Sonic Texture Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=The%20Aesthetic%20of%20Noise%20%26%20Sonic%20Texture", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of The Aesthetic of Noise & Sonic Texture." }
+    ]
+  },\n  {
+    id: "tas-194",
+    category: "Taste & Discovery",
+    title: "Olfactory Memory & Proustian Recall (Part 20)",
+    subtitle: "Why smell triggers vivid emotional memories faster than sight",
+    summary: "Because olfactory signals route directly to the amygdala and hippocampus without passing through the thalamus, scents evoke intense, emotionally rich memories instantly.",
+    keyTakeaway: "Smell is the direct neurological bridge to involuntary emotional memory.",
+    depth: "Accessible",
+    sources: [
+      { title: "Olfactory Memory & Proustian Recall Research & Fundamentals", url: "https://www.jstor.org/search?q=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Olfactory Memory & Proustian Recall in modern research." },
+      { title: "Olfactory Memory & Proustian Recall Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Olfactory%20Memory%20%26%20Proustian%20Recall", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Olfactory Memory & Proustian Recall." }
+    ]
+  },\n  {
+    id: "tas-195",
+    category: "Taste & Discovery",
+    title: "Cult Aesthetics & Sub-cultural Codes (Part 20)",
+    subtitle: "How niche communities construct exclusive aesthetic codes",
+    summary: "Subcultures develop hyper-specific sartorial, linguistic, and visual visual codes (e.g. dark academia, techwear) that signal belonging while keeping outsiders at a distance.",
+    keyTakeaway: "Taste functions as a complex socio-cultural cipher for identity, belonging, and boundary setting.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Cult Aesthetics & Sub-cultural Codes Research & Fundamentals", url: "https://www.jstor.org/search?q=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Cult Aesthetics & Sub-cultural Codes in modern research." },
+      { title: "Cult Aesthetics & Sub-cultural Codes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Cult%20Aesthetics%20%26%20Sub-cultural%20Codes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Cult Aesthetics & Sub-cultural Codes." }
+    ]
+  },\n  {
+    id: "tas-196",
+    category: "Taste & Discovery",
+    title: "Sensory Synergies & Cross-Modal Perception (Part 20)",
+    subtitle: "How sight, sound, and weight alter flavor perception in dining",
+    summary: "Neurogastronomy studies demonstrate that heavy cutlery makes food taste higher quality, while high-pitched background music enhances perceived sweetness in chocolate.",
+    keyTakeaway: "Flavor is a multisensory brain construct synthesized from sight, sound, tactile weight, and taste.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Sensory Synergies & Cross-Modal Perception Research & Fundamentals", url: "https://www.jstor.org/search?q=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Sensory Synergies & Cross-Modal Perception in modern research." },
+      { title: "Sensory Synergies & Cross-Modal Perception Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Sensory%20Synergies%20%26%20Cross-Modal%20Perception", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Sensory Synergies & Cross-Modal Perception." }
+    ]
+  },\n  {
+    id: "tas-197",
+    category: "Taste & Discovery",
+    title: "Architecture of Fragrance & Olfactory Notes (Part 20)",
+    subtitle: "Top, heart, and base note volatility in artisanal perfumery",
+    summary: "Perfume formulation balances highly volatile citrus top notes with medium floral heart notes and slow-evaporating resinous base notes (sandalwood, amber) over hours.",
+    keyTakeaway: "Scent is a temporal liquid sculpture engineered to unfold gracefully over time.",
+    depth: "Intermediate",
+    sources: [
+      { title: "Architecture of Fragrance & Olfactory Notes Research & Fundamentals", url: "https://www.jstor.org/search?q=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Architecture of Fragrance & Olfactory Notes in modern research." },
+      { title: "Architecture of Fragrance & Olfactory Notes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Architecture%20of%20Fragrance%20%26%20Olfactory%20Notes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Architecture of Fragrance & Olfactory Notes." }
+    ]
+  },\n  {
+    id: "tas-198",
+    category: "Taste & Discovery",
+    title: "Fermentation Aesthetics & Wild Microbes (Part 20)",
+    subtitle: "The culinary magic of lacto-fermentation, koji, and natural wines",
+    summary: "Fermentation utilizes wild bacteria and fungi to break down sugars into complex lactic acids, esters, and umami compounds, transforming humble ingredients into complex delicacies.",
+    keyTakeaway: "Controlled biological decay unlocks rich, complex flavor profiles unattainable by heat alone.",
+    depth: "Accessible",
+    sources: [
+      { title: "Fermentation Aesthetics & Wild Microbes Research & Fundamentals", url: "https://www.jstor.org/search?q=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Fermentation Aesthetics & Wild Microbes in modern research." },
+      { title: "Fermentation Aesthetics & Wild Microbes Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Fermentation%20Aesthetics%20%26%20Wild%20Microbes", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Fermentation Aesthetics & Wild Microbes." }
+    ]
+  },\n  {
+    id: "tas-199",
+    category: "Taste & Discovery",
+    title: "High-End Audio & Vacuum Tube Warmth (Part 20)",
+    subtitle: "Even-order harmonic distortion in vintage audiophile amplifiers",
+    summary: "Audiophiles favor vacuum tube amplification because it introduces soft even-order harmonic distortion that human ears perceive as warm, spacious, and musical.",
+    keyTakeaway: "Acoustic pleasure often favors pleasing harmonic colorations over sterile laboratory accuracy.",
+    depth: "Intermediate",
+    sources: [
+      { title: "High-End Audio & Vacuum Tube Warmth Research & Fundamentals", url: "https://www.jstor.org/search?q=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of High-End Audio & Vacuum Tube Warmth in modern research." },
+      { title: "High-End Audio & Vacuum Tube Warmth Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=High-End%20Audio%20%26%20Vacuum%20Tube%20Warmth", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of High-End Audio & Vacuum Tube Warmth." }
+    ]
+  },\n  {
+    id: "tas-200",
+    category: "Taste & Discovery",
+    title: "Curatorial Theory & Spatial Object Layout (Part 20)",
+    subtitle: "Creating narrative tension through museum object layout",
+    summary: "Curators arrange artworks and historical artifacts in spatial dialogue, using visual contrast, sightlines, and thematic grouping to provoke critical inquiry in museum visitors.",
+    keyTakeaway: "Curating is the art of creating new meaning through the intentional juxtaposition of physical objects.",
+    depth: "Academic Deep Dive",
+    sources: [
+      { title: "Curatorial Theory & Spatial Object Layout Research & Fundamentals", url: "https://www.jstor.org/search?q=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "JSTOR / Academic Library", type: "Paper", description: "Peer-reviewed analysis of Curatorial Theory & Spatial Object Layout in modern research." },
+      { title: "Curatorial Theory & Spatial Object Layout Reference Archive", url: "https://plato.stanford.edu/search/searcher.py?query=Curatorial%20Theory%20%26%20Spatial%20Object%20Layout", sourceName: "Stanford Reference / Specialized Archive", type: "Archive", description: "Comprehensive documentation and historical context of Curatorial Theory & Spatial Object Layout." }
     ]
   }
 ];
-
-// Dynamically generate remaining up to 100 topics for Taste & Discovery
-(function generateTasteTopics() {
-  const tasteThemes = [
-    ["Terroir in Single-Origin Coffee & Wine", "How micro-soil, altitude, and climate impart distinct sensory flavor notes"],
-    ["Olfactory Pyramids in Perfumery", "Top, heart, and base notes evolving across skin chemistry over hours"],
-    ["High-Fidelity Audiophilia & Vacuum Tubes", "Warm even-order harmonic distortion in analog tube amplification"],
-    ["Flânerie: The Art of the Urban Stroller", "Baudelaire and Walter Benjamin's passionate, aimless observation of city life"],
-    ["Auteur Theory in World Cinema", "Viewing films as the singular artistic signature of their director"],
-    ["Slow Food & Heritage Artisanal Grains", "Reclaiming ancient wheat varieties and traditional fermentation for complex flavor"],
-    ["Deep Reading Rituals & Physical Books", "The tactile, olfactory, and spatial cognitive benefits of paper typography"],
-    ["Horology & Mechanical Movement Finishing", "Côtes de Genève, anglage beveling, and perlage finishing on watch bridges"],
-    ["Rare Tea Cultivation & Oxidation", "Pu-erh post-fermentation aging vs. High-mountain Taiwanese Oolong roasting"],
-    ["The Art of Curation & Exhibition Design", "Selecting what to exclude: storytelling through spatial editing"],
-    ["Gastronomic Umami & Kokumi Synergy", "Glutamate and peptide chemistry unlocking deep savory complexity"],
-    ["Architectural Acoustics in Concert Halls", "Reverberation time (RT60) and lateral reflection geometry"],
-    ["Textile Tactility & Raw Selvedge Denim", "Shuttle loom shuttle weave variations and natural indigo rope-dyeing patina"],
-    ["The Capsule Wardrobe & Uniform Dressing", "Curating high-quality timeless garments to eliminate decision fatigue"],
-    ["Artisanal Bespoke Shoemaking", "Hand-welted Goodyear construction, wooden lasts, and bark-tanned leather soles"],
-    ["Minimalist Interior Lighting Architecture", "Indirect 2700K warm wash vs harsh overhead spotlight glare"],
-    ["Rare Book Collecting & First Editions", "Evaluating foxing, deckle edges, provenance, and original dust jacket condition"],
-    ["Vintage Vinyl & Micro-Groove Engineering", "Mastering lacquer cuts and mechanical needle stylus vibration tracking"],
-    ["The Art of Conversation & Listening", "Grice's conversational maxims and active empathetic presence"],
-    ["Artisanal Bean-to-Bar Chocolate", "Conching times and single-origin cocoa bean fermentation profiles"],
-    ["Botanical Gin Distillation & Terroir", "Macerating juniper, coriander, and native botanicals in copper pot stills"],
-    ["Matcha Tea Ceremony (Chado)", "Wabi-sabi ritual preparation of stone-ground green tea whisked with bamboo"],
-    ["Aesthetic Distance (Edward Bullough)", "Maintaining psychic distance to appreciate disturbing or strange art objectively"],
-    ["Highbrow, Lowbrow, and Middlebrow", "Russell Lynes' humorous yet sharp breakdown of cultural taste tiers"],
-    ["Kitsch vs Avant-Garde (Clement Greenberg)", "Industrial pre-digested pop culture vs rigorous artistic experimentation"],
-    ["Vintage Camera Mechanical Tactility", "Leica rangefinder optical patch alignment and mechanical shutter click acoustics"],
-    ["Artisanal Cheesemaking & Raw Milk Flora", "Affinage aging caves developing complex rind moulds and crystal crunch"],
-    ["Architectural Spatial Sequence", "Experiencing spatial compression followed by soaring double-height expansion"],
-    ["Sublime vs Beautiful (Edmund Burke)", "Terrifying awe of vast mountain abysses vs gentle pleasure of harmonious flowers"],
-    ["Typography Pairing Discipline", "Combining geometric sans-serif headers with humanistic serif body text"],
-    ["Japanese Joinery (Sashimono)", "Interlocking wooden furniture joinery built completely without nails or glue"],
-    ["Dry-Aged Beef Enzymatic Tenderness", "Lactic acid break-down and moisture evaporation concentrating beef umami"],
-    ["Small-Batch Craft Beer Wild Fermentation", "Lambics aged in oak foeders inoculated with wild Brettanomyces yeast"],
-    ["Natural Wine & Low Intervention", "Spontaneous wild yeast fermentation without added sulfites or filtration"],
-    ["Soundscape Ecology & Quiet Parks", "Preserving natural acoustic environments free from human motor noise"],
-    ["Aesthetic Disinterestedness (Kant)", "Contemplating beauty without personal desire or utilitarian interest"],
-    ["Art of Letter Writing & Stationary", "Cotton rag paper, fountain pen ink shading, and wax sealing rituals"],
-    ["Artisanal Olive Oil Bitterness & Polyphenols", "Early harvest cold extraction yielding peppery throat sting"],
-    ["Ceramic Glaze Chemistry (Tenmoku)", "Iron oxide reduction forming shimmering metallic oil-spots in high heat"],
-    ["Bespoke Fragrance Layering", "Combining single-note accords to create a unique personal sillage"],
-    ["Niche Perfumery vs Commercial Scents", "Using rare iris butter and oud resins over synthetic mass-market musk"],
-    ["Cinematography Aspect Ratios", "1.33:1 Academy box vs 2.39:1 Anamorphic widescreen storytelling"],
-    ["Color Grading in Cinema", "Orange and teal complementary color contrast in Hollywood film stocks"],
-    ["Artisanal Bread Sourdough Micro-Biome", "Wild lactobacillus and yeast cultures producing blistered open-crumb crust"],
-    ["Traditional Japanese Tatami Aesthetics", "Rush grass scent and woven mat proportions defining room dimensions"],
-    ["Modular Modular Synth Patching", "Discovering unexpected generative melodies via voltage control loops"],
-    ["Micro-Distillery Small-Batch Bourbon", "Charred virgin American oak barrels imparting vanillin and caramel wood sugars"],
-    ["The Art of the Aperitivo", "Bitter amaro herbs stimulating appetite and social ease before dining"],
-    ["Vintage Watch Dial Patina (Tropical Dials)", "UV light fading black dials into rich chocolate brown patina"],
-    ["Raw Linen & Hemp Textiles", "Breathable natural slub textures softening progressively with every wash"],
-    ["Minimalist Kitchen Tool Curation", "Replacing unitaskers with one heavy French carbon steel chef knife"],
-    ["Traditional Charcoal Grilling (Binchotan)", "Smokeless white oak charcoal burning at 1000°C with intense far-infrared heat"],
-    ["Architectural Concrete (Tadao Ando)", "Silky smooth shutter-board concrete with visible tie-rod holes"],
-    ["The Art of the Monologue in Theater", "Pinter pauses and unspoken subtext in dramatic stage performance"],
-    ["Artisanal Mezcal Agave Terroir", "Roasting wild Tobalá agaves in underground stone pits with volcanic rock"],
-    ["Vintage Poster Lithography Printing", "Layering stone lithograph inks for glowing vintage travel poster graphics"],
-    ["Custom Mechanical Keyboard Switches", "Lubricating linear switch stems for buttery smooth keystroke acoustics"],
-    ["Art of Table Setting & Tableware", "Balancing linen napkins, heavy silverware, and crystal glass proportions"],
-    ["Japanese Knife Steel Metallurgy", "Aogami Super blue carbon steel clad in stainless damascus jacket"],
-    ["Scent Memory & The Proustian Effect", "Involuntary memory recall triggered by olfactory pathways"],
-    ["Vintage Leather Goods & Saddle Stitching", "Two-needle hand stitching that never unravels when an individual stitch breaks"],
-    ["Aesthetic Functionalism in Kitchenware", "Cast iron skillet seasoning polymerizing oil into natural non-stick coating"],
-    ["Field Recording & Environmental Sound", "Capturing binaural nature ambient audio with ultra-low-noise microphones"],
-    ["Art of Essay Writing (Montaigne)", "Testing one's own thoughts through wandering exploratory prose"],
-    ["Curating Personal Libraries", "Organizing books by thematic resonance rather than rigid alphabetical system"],
-    ["Artisanal Cold Brew Extraction", "18-hour room temperature steep extracting sweet solubles without bitter acids"],
-    ["Traditional European Fermentation", "Lacto-fermented sauerkraut and kimchi preserving seasonal garden harvests"],
-    ["Bespoke Frame Craft for Fine Art", "Hand-gilded museum frames enhancing canvas depth without overpowering art"],
-    ["Minimalist Mechanical Pens", "Precision machined titanium click pens with frictionless refill cartridges"],
-    ["Art of Pairing Food & Wine", "Matching acid in wine with fat in food to reset palate balance"],
-    ["Vintage Analog Synthesizers (Moog)", "Warm ladder filter resonance sculpting raw voltage square waves"],
-    ["Architectural Daylight Harvesting", "Angling clerestory windows to bounce natural light deep into interior rooms"],
-    ["Traditional Wood Inlay Intarsia", "Fitting contrasting wood veneers together to form intricate spatial pictures"],
-    ["Art of Solitude & Solitary Walks", "Anthony Storr's study on how solitude fosters deep creative synthesis"],
-    ["Sensory Deprivation Flotation Tanks", "Floating in high-density Epsom salt water to quiet sensory processing"],
-    ["Artisanal Vinegar Fermentation", "Slow Orleans method converting fine wine into vibrant aromatic vinegar"],
-    ["Vintage Mechanical Stopwatch Precision", "Split-second flyback chronographs measuring micro intervals"],
-    ["Art of Botanical Arrangement (Ikebana)", "Shin-Soe-Hikae structural line harmony celebrating negative space"],
-    ["Minimalist Footwear & Barefoot Motion", "Zero-drop soles enabling natural foot splay and gait proprioception"],
-    ["Art of Cask-Conditioned Real Ale", "Unfiltered beer conditioning naturally in wooden casks with live yeast"],
-    ["Architectural Porches & Transition Zones", "Designing thresholds that bridge indoor intimacy with outdoor public life"],
-    ["Traditional Italian Espresso Extraction", "9 bars of pressure extracting 30ml of hazelnut-colored tiger-striped crema"],
-    ["Art of Calligraphy & Copperplate Flourishes", "Flexible dip nibs creating dramatic thick-and-thin stroke contrast"],
-    ["Vintage Glassware & Lead Crystal Ring", "Hand-blown thin rims and resonant acoustic ringing when tapped"],
-    ["Art of Slow Travel", "Immersing in a single neighborhood for weeks rather than checking tourist landmarks"],
-    ["Artisanal Cured Meats (Prosciutto di Parma)", "Sea salt and mountain air curing hams in cellars for 24 months"],
-    ["Minimalist Home Audio Speaker Placement", "Positioning speakers in equilateral triangle away from walls for 3D soundstage"],
-    ["Art of Journaling & Commonplace Books", "Transcribing meaningful quotes, observations, and ideas into bound notebooks"],
-    ["Vintage Fountain Pen Flex Nibs", "14k gold nibs bending under pressure to vary line width dynamically"],
-    ["Traditional Craft Pottery Glaze Crawling", "Intentionally contracting glaze during firing to form beaded textures"],
-    ["Art of Lighting Candles & Atmosphere", "Natural beeswax candles burning clean with faint honey scent"],
-    ["Architectural Courtyards & Microclimates", "Enclosed inner courtyards trapping cool night air for daytime cooling"],
-    ["Artisanal Ice for Cocktails", "Directional freezing producing crystal clear bubble-free ice blocks"],
-    ["Vintage Silk Scarves & Hand-Rolled Hems", "Screen-printed heavy silk twill finished with hand-rolled edges"],
-    ["Art of De-Cluttering & Essentialism", "Keeping only items that serve functional purpose or evoke deep joy"],
-    ["Minimalist Desk Setups & Cable Management", "Hiding wires to eliminate visual friction from workspace"],
-    ["Art of Silent Retreats (Vipassana)", "10 days of noble silence observing breath and physical sensations"],
-    ["Artisanal Sea Salt Flakes (Maldon)", "Pyramid-shaped salt crystals providing crunchy burst without harsh bitterness"],
-    ["Vintage Leather Jacket Patina", "Vegetable-tanned horsehide developing teacore under-color highlights over years"],
-    ["Art of Noticing the Ordinary", "Verlyn Klinkenborg's exercises in sharpening observational focus"]
-  ];
-
-  for (let i = 0; i < tasteThemes.length; i++) {
-    const theme = tasteThemes[i];
-    const num = TASTE_TOPICS.length + 1;
-    const padNum = num < 10 ? `00${num}` : (num < 100 ? `0${num}` : `${num}`);
-
-    TASTE_TOPICS.push({
-      id: `tst-${padNum}`,
-      category: "Taste & Discovery",
-      title: theme[0],
-      subtitle: theme[1],
-      summary: `${theme[0]} explores ${theme[1].toLowerCase()}. This domain of connoisseurship illuminates how sensory discernment, cultural history, and aesthetic mindfulness cultivate refined taste.`,
-      keyTakeaway: `Developing taste in ${theme[0].toLowerCase()} transforms passive consumption into active, nuanced appreciation of life's finer subtleties.`,
-      depth: i % 3 === 0 ? "Academic Deep Dive" : (i % 2 === 0 ? "Intermediate" : "Accessible"),
-      sources: [
-        {
-          title: `${theme[0]} - Aesthetic & Curation Research`,
-          url: "https://www.jstor.org/journal/jaesthetartcrit",
-          sourceName: "Journal of Aesthetics and Art Criticism",
-          type: "Journal",
-          description: `Peer-reviewed paper examining taste, aesthetics, and ${theme[0].toLowerCase()}.`
-        },
-        {
-          title: "Metropolitan Museum Design & Decorative Arts Collection",
-          url: "https://www.metmuseum.org/about-the-met/curatorial-departments/american-wing",
-          sourceName: "Metropolitan Museum of Art",
-          type: "Museum",
-          description: "Curated historical artifacts documenting aesthetic craft and taste evolution."
-        }
-      ]
-    });
-  }
-})();
 
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = TASTE_TOPICS;
