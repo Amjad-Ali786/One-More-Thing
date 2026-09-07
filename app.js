@@ -18,6 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   // --- State Variables ---
+  let TOPICS_DATA = [];
+  let isLoadingAPI = false;
   let currentCategory = 'All';
   let currentTopic = null;
   let viewMode = 'card'; // 'card' or 'feed'
@@ -669,6 +671,30 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
+  // --- Dynamic API Topics Engine ---
+  async function loadTopicsFromAPI() {
+    if (isLoadingAPI) return;
+    isLoadingAPI = true;
+
+    if (topicTitle) topicTitle.textContent = 'Loading Topics API...';
+    if (topicSubtitle) topicSubtitle.textContent = 'Fetching 1,800+ niche research topics via API';
+
+    try {
+      const response = await fetch('api/topics.json');
+      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+      TOPICS_DATA = await response.json();
+      isLoadingAPI = false;
+      
+      // Render initial topic once API payload is loaded
+      randomizeTopic();
+    } catch (err) {
+      console.error('Failed to load topics API:', err);
+      isLoadingAPI = false;
+      showToast('Retrying API topic loader...');
+      setTimeout(loadTopicsFromAPI, 1500);
+    }
+  }
+
   // --- Keyboard Shortcuts ---
   document.addEventListener('keydown', (e) => {
     if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
@@ -690,6 +716,6 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Initialize Application ---
   btnRandomize.addEventListener('click', randomizeTopic);
   
-  // Display initial topic on load
-  randomizeTopic();
+  // Asynchronously fetch topics via REST JSON API on load
+  loadTopicsFromAPI();
 });

@@ -19,6 +19,16 @@ try {
         $request = $context.Request
         $response = $context.Response
 
+        $response.Headers.Add("Access-Control-Allow-Origin", "*")
+        $response.Headers.Add("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+        $response.Headers.Add("Access-Control-Allow-Headers", "Content-Type")
+
+        if ($request.HttpMethod -eq "OPTIONS") {
+            $response.StatusCode = 200
+            $response.OutputStream.Close()
+            continue
+        }
+
         $relativePath = $request.Url.LocalPath.TrimStart('/')
         if ([string]::IsNullOrEmpty($relativePath)) {
             $relativePath = "index.html"
