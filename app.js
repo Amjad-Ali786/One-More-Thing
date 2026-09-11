@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let isLoadingAPI = false;
   let currentCategory = 'All';
   let currentTopic = null;
-  let viewMode = 'card'; // 'card' or 'feed'
+  let viewMode = 'feed'; // 'feed' (default continuous vertical stream) or 'card' (focused single card)
   let bookmarks = JSON.parse(localStorage.getItem('onemorething_bookmarks') || localStorage.getItem('curiospire_bookmarks') || '[]');
   let synth = window.speechSynthesis || null;
   let currentUtterance = null;
@@ -214,77 +214,117 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 200);
   }
 
-  // --- Render Continuous Scrollable Feed ---
+  // --- Main Category Section Metadata ---
+  const SECTION_METADATA = [
+    { name: 'Design', icon: '🎨', desc: 'Biophilic architecture, spatial computing UI, skeuomorphism, digital brutalism, dark patterns, and tactile ergonomics.' },
+    { name: 'Philosophy', icon: '🧠', desc: 'Epistemology, phenomenology, panpsychism, modal realism, extended mind thesis, process philosophy, and metaphysics.' },
+    { name: 'Ethics', icon: '⚖️', desc: 'Bioethics, algorithmic fairness, AI sentience rights, neuroethics, environmental ethics, and corporate data governance.' },
+    { name: 'Morals', icon: '📜', desc: 'Moral foundations, affective intuitionism, altruistic kin selection, moral luck, moral licensing, and developmental ethics.' },
+    { name: 'Cars', icon: '🏎️', desc: 'Active aerodynamics, ground effects, torque vectoring, dual-clutch transmission physics, and thermodynamic engine limits.' },
+    { name: 'Psychology', icon: '🔬', desc: 'Default Mode Network, cognitive dissonance, peak-end memory rule, neuroplasticity, Dunning-Kruger effect, and terror management.' },
+    { name: 'Art Movements', icon: '🏛️', desc: 'Futurism, Dadaism, De Stijl, Constructivism, Bauhaus, Surrealism, Suprematism, Arte Povera, and Fluxus event scores.' },
+    { name: 'Art Styles', icon: '🖌️', desc: 'Chiaroscuro, tenebrism, sfumato glazes, encaustic hot beeswax, pointillism optical mixing, grisaille, and impasto.' },
+    { name: 'Taste & Discovery', icon: '🍷', desc: 'Umami neuro-gastrochemistry, viticulture terroir, sonic noise textures, Proustian olfactory memory, and curatorial theory.' }
+  ];
+
+  // --- Render Vertical Continuous Scrollable Feed with Main Section Headers ---
   function renderScrollableFeed() {
     if (!feedContainer) return;
     feedContainer.innerHTML = '';
-    const pool = getActivePool();
 
-    if (pool.length === 0) {
-      feedContainer.innerHTML = '<div style="text-align:center; padding:3rem; color:var(--text-muted);">No topics found in this category.</div>';
+    const categoriesToRender = (currentCategory === 'All') 
+      ? SECTION_METADATA 
+      : SECTION_METADATA.filter(s => s.name === currentCategory);
+
+    if (categoriesToRender.length === 0 || TOPICS_DATA.length === 0) {
+      feedContainer.innerHTML = '<div style="text-align:center; padding:4rem; color:var(--text-muted);">Loading niche research topics via API...</div>';
       return;
     }
 
-    pool.forEach((topic, idx) => {
-      const card = document.createElement('article');
-      card.className = 'feed-topic-card';
-      card.id = `feed-topic-${topic.id}`;
-      const themeColor = CATEGORY_COLORS[topic.category] || '#8b5cf6';
+    categoriesToRender.forEach(sec => {
+      const secTopics = TOPICS_DATA.filter(t => t.category === sec.name);
+      if (secTopics.length === 0) return;
 
-      let sourcesHtml = '';
-      if (topic.sources && topic.sources.length > 0) {
-        sourcesHtml = topic.sources.map(src => `
-          <li class="source-item-wrap">
-            <a href="${src.url}" target="_blank" rel="noopener noreferrer" class="source-item">
-              <div class="source-info">
-                <span class="source-title">${src.title} <span class="source-badge">${src.type || 'Source'}</span></span>
-                <span class="source-desc">${src.sourceName} — ${src.description}</span>
-              </div>
-            </a>
-          </li>
-        `).join('');
-      }
+      const themeColor = CATEGORY_COLORS[sec.name] || '#8b5cf6';
+      const secId = `section-${sec.name.toLowerCase().replace(/[^a-z0-9]/g, '-')}`;
 
-      const isBookmarked = bookmarks.includes(topic.id);
-
-      card.innerHTML = `
-        <div class="feed-card-header">
-          <div class="meta-badges">
-            <span class="badge-category" style="background:${themeColor}22; color:${themeColor}; border:1px solid ${themeColor}44;">${topic.category}</span>
-            <span class="badge-depth">${topic.depth || 'Academic Deep Dive'}</span>
-          </div>
-          <span class="topic-id-tag">#${topic.id} (${idx + 1}/${pool.length})</span>
+      // Render Prominent Vertical Main Section Header Card
+      const headerCard = document.createElement('div');
+      headerCard.className = 'section-header-card';
+      headerCard.id = secId;
+      headerCard.style.setProperty('--sec-color', themeColor);
+      headerCard.innerHTML = `
+        <div class="section-header-top">
+          <h2 class="section-title"><span>${sec.icon}</span> ${sec.name} Section</h2>
+          <span class="section-topic-count" style="background:${themeColor}22; color:${themeColor}; border:1px solid ${themeColor}44;">
+            ${secTopics.length} Topics
+          </span>
         </div>
-        <h2 class="topic-title">${topic.title}</h2>
-        <p class="topic-subtitle">${topic.subtitle}</p>
-        <blockquote class="quote-box" style="border-left-color:${themeColor};">“${topic.keyTakeaway}”</blockquote>
-        <div class="topic-summary">${topic.summary}</div>
-        ${sourcesHtml ? `<ul class="sources-list" style="margin-top:1.25rem;">${sourcesHtml}</ul>` : ''}
-        <div class="feed-card-actions">
-          <button class="btn-tool feed-bm-btn ${isBookmarked ? 'active-bookmark' : ''}" data-id="${topic.id}">
-            <span>${isBookmarked ? 'Saved' : 'Save'}</span>
-          </button>
-          <button class="btn-tool feed-cite-btn" data-id="${topic.id}">
-            <span>Cite</span>
-          </button>
-        </div>
+        <p class="section-subtitle">${sec.desc}</p>
       `;
+      feedContainer.appendChild(headerCard);
 
-      const bmBtn = card.querySelector('.feed-bm-btn');
-      bmBtn.addEventListener('click', () => {
-        toggleBookmarkById(topic.id, bmBtn);
+      // Render Vertical Stack of Topic Cards for this Section
+      secTopics.forEach((topic, idx) => {
+        const card = document.createElement('article');
+        card.className = 'feed-topic-card';
+        card.id = `feed-topic-${topic.id}`;
+
+        let sourcesHtml = '';
+        if (topic.sources && topic.sources.length > 0) {
+          sourcesHtml = topic.sources.map(src => `
+            <li class="source-item-wrap">
+              <a href="${src.url}" target="_blank" rel="noopener noreferrer" class="source-item">
+                <div class="source-info">
+                  <span class="source-title">${src.title} <span class="source-badge">${src.type || 'Source'}</span></span>
+                  <span class="source-desc">${src.sourceName} — ${src.description}</span>
+                </div>
+              </a>
+            </li>
+          `).join('');
+        }
+
+        const isBookmarked = bookmarks.includes(topic.id);
+
+        card.innerHTML = `
+          <div class="feed-card-header">
+            <div class="meta-badges">
+              <span class="badge-category" style="background:${themeColor}22; color:${themeColor}; border:1px solid ${themeColor}44;">${topic.category}</span>
+              <span class="badge-depth">${topic.depth || 'Academic Deep Dive'}</span>
+            </div>
+            <span class="topic-id-tag">#${topic.id} (${idx + 1}/${secTopics.length})</span>
+          </div>
+          <h2 class="topic-title">${topic.title}</h2>
+          <p class="topic-subtitle">${topic.subtitle}</p>
+          <blockquote class="quote-box" style="border-left-color:${themeColor};">“${topic.keyTakeaway}”</blockquote>
+          <div class="topic-summary">${topic.summary}</div>
+          ${sourcesHtml ? `<ul class="sources-list" style="margin-top:1.25rem;">${sourcesHtml}</ul>` : ''}
+          <div class="feed-card-actions">
+            <button class="btn-tool feed-bm-btn ${isBookmarked ? 'active-bookmark' : ''}" data-id="${topic.id}">
+              <span>${isBookmarked ? 'Saved' : 'Save'}</span>
+            </button>
+            <button class="btn-tool feed-cite-btn" data-id="${topic.id}">
+              <span>Cite</span>
+            </button>
+          </div>
+        `;
+
+        const bmBtn = card.querySelector('.feed-bm-btn');
+        bmBtn.addEventListener('click', () => {
+          toggleBookmarkById(topic.id, bmBtn);
+        });
+
+        const citeBtn = card.querySelector('.feed-cite-btn');
+        citeBtn.addEventListener('click', () => {
+          copyCitationForTopic(topic);
+        });
+
+        feedContainer.appendChild(card);
       });
-
-      const citeBtn = card.querySelector('.feed-cite-btn');
-      citeBtn.addEventListener('click', () => {
-        copyCitationForTopic(topic);
-      });
-
-      feedContainer.appendChild(card);
     });
   }
 
-  // --- Toggle View Modes (Card vs Feed) ---
+  // --- Toggle View Modes (Vertical Feed vs Focused Card) ---
   function setViewMode(mode) {
     viewMode = mode;
     const seqNav = document.querySelector('.sequential-nav-bar');
@@ -295,14 +335,14 @@ document.addEventListener('DOMContentLoaded', () => {
       if (seqNav) seqNav.style.display = 'none';
       if (ctrlBar) ctrlBar.style.display = 'none';
       feedContainer.style.display = 'flex';
-      viewModeLabel.textContent = 'Card View';
+      viewModeLabel.textContent = 'Focused Card View';
       renderScrollableFeed();
     } else {
       feedContainer.style.display = 'none';
       topicCard.style.display = 'block';
       if (seqNav) seqNav.style.display = 'flex';
       if (ctrlBar) ctrlBar.style.display = 'flex';
-      viewModeLabel.textContent = 'Scroll Feed';
+      viewModeLabel.textContent = 'Vertical Feed View';
     }
   }
 
@@ -432,7 +472,25 @@ document.addEventListener('DOMContentLoaded', () => {
     pill.classList.add('active');
 
     currentCategory = pill.getAttribute('data-category');
-    randomizeTopic();
+
+    if (viewMode === 'feed') {
+      if (currentCategory === 'All') {
+        renderScrollableFeed();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        const targetSecId = `section-${currentCategory.toLowerCase().replace(/[^a-z0-9]/g, '-')}`;
+        let secElem = document.getElementById(targetSecId);
+        if (!secElem) {
+          renderScrollableFeed();
+          secElem = document.getElementById(targetSecId);
+        }
+        if (secElem) {
+          secElem.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    } else {
+      randomizeTopic();
+    }
   });
 
   // --- Text to Speech (TTS) ---

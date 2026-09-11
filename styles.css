@@ -996,9 +996,59 @@ body {
   flex-direction: column;
   gap: 2rem;
   width: 100%;
-  max-width: 850px;
+  max-width: 880px;
   margin: 0 auto;
-  padding-bottom: 4rem;
+  padding: 1rem 0 6rem 0;
+}
+
+/* Vertical Main Section Header Cards */
+.section-header-card {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02));
+  backdrop-filter: var(--backdrop-blur);
+  border: 1px solid var(--sec-color, var(--current-cat-color));
+  border-left: 6px solid var(--sec-color, var(--current-cat-color));
+  border-radius: var(--radius-lg);
+  padding: 2rem 2.25rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  box-shadow: var(--shadow-subtle);
+  scroll-margin-top: 140px; /* Offset for sticky nav headers */
+}
+
+.section-header-card:first-child {
+  margin-top: 0.5rem;
+}
+
+.section-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: 1.85rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.section-topic-count {
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.35rem 0.85rem;
+  border-radius: var(--radius-pill);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.section-subtitle {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
 }
 
 /* Feed Card Styling */
@@ -1011,6 +1061,7 @@ body {
   box-shadow: var(--shadow-subtle);
   transition: transform 0.3s ease, border-color 0.3s ease;
   position: relative;
+  scroll-margin-top: 140px;
 }
 
 .feed-topic-card:hover {
@@ -1068,4 +1119,5 @@ body {
   border-color: var(--current-cat-color);
   transform: translateY(-2px);
 }
+
 
