@@ -252,7 +252,7 @@
     {
         "id":  "car-011",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 2)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -277,7 +277,7 @@
     {
         "id":  "car-012",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 2)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -302,7 +302,7 @@
     {
         "id":  "car-013",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 2)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -327,7 +327,7 @@
     {
         "id":  "car-014",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 2)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -352,7 +352,7 @@
     {
         "id":  "car-015",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 2)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -377,7 +377,7 @@
     {
         "id":  "car-016",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 2)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -402,7 +402,7 @@
     {
         "id":  "car-017",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 2)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -427,7 +427,7 @@
     {
         "id":  "car-018",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 2)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -452,7 +452,7 @@
     {
         "id":  "car-019",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 2)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -477,7 +477,7 @@
     {
         "id":  "car-020",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 2)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -502,7 +502,7 @@
     {
         "id":  "car-021",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 3)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -527,7 +527,7 @@
     {
         "id":  "car-022",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 3)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -552,7 +552,7 @@
     {
         "id":  "car-023",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 3)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -577,7 +577,7 @@
     {
         "id":  "car-024",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 3)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -602,7 +602,7 @@
     {
         "id":  "car-025",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 3)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -627,7 +627,7 @@
     {
         "id":  "car-026",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 3)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -652,7 +652,7 @@
     {
         "id":  "car-027",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 3)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -677,7 +677,7 @@
     {
         "id":  "car-028",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 3)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -702,7 +702,7 @@
     {
         "id":  "car-029",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 3)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -727,7 +727,7 @@
     {
         "id":  "car-030",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 3)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -752,7 +752,7 @@
     {
         "id":  "car-031",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 4)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -777,7 +777,7 @@
     {
         "id":  "car-032",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 4)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -802,7 +802,7 @@
     {
         "id":  "car-033",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 4)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -827,7 +827,7 @@
     {
         "id":  "car-034",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 4)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -852,7 +852,7 @@
     {
         "id":  "car-035",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 4)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -877,7 +877,7 @@
     {
         "id":  "car-036",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 4)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -902,7 +902,7 @@
     {
         "id":  "car-037",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 4)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -927,7 +927,7 @@
     {
         "id":  "car-038",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 4)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -952,7 +952,7 @@
     {
         "id":  "car-039",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 4)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -977,7 +977,7 @@
     {
         "id":  "car-040",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 4)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -1002,7 +1002,7 @@
     {
         "id":  "car-041",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 5)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -1027,7 +1027,7 @@
     {
         "id":  "car-042",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 5)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -1052,7 +1052,7 @@
     {
         "id":  "car-043",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 5)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -1077,7 +1077,7 @@
     {
         "id":  "car-044",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 5)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -1102,7 +1102,7 @@
     {
         "id":  "car-045",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 5)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -1127,7 +1127,7 @@
     {
         "id":  "car-046",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 5)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -1152,7 +1152,7 @@
     {
         "id":  "car-047",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 5)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -1177,7 +1177,7 @@
     {
         "id":  "car-048",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 5)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -1202,7 +1202,7 @@
     {
         "id":  "car-049",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 5)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -1227,7 +1227,7 @@
     {
         "id":  "car-050",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 5)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -1252,7 +1252,7 @@
     {
         "id":  "car-051",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 6)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -1277,7 +1277,7 @@
     {
         "id":  "car-052",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 6)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -1302,7 +1302,7 @@
     {
         "id":  "car-053",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 6)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -1327,7 +1327,7 @@
     {
         "id":  "car-054",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 6)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -1352,7 +1352,7 @@
     {
         "id":  "car-055",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 6)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -1377,7 +1377,7 @@
     {
         "id":  "car-056",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 6)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -1402,7 +1402,7 @@
     {
         "id":  "car-057",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 6)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -1427,7 +1427,7 @@
     {
         "id":  "car-058",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 6)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -1452,7 +1452,7 @@
     {
         "id":  "car-059",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 6)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -1477,7 +1477,7 @@
     {
         "id":  "car-060",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 6)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -1502,7 +1502,7 @@
     {
         "id":  "car-061",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 7)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -1527,7 +1527,7 @@
     {
         "id":  "car-062",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 7)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -1552,7 +1552,7 @@
     {
         "id":  "car-063",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 7)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -1577,7 +1577,7 @@
     {
         "id":  "car-064",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 7)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -1602,7 +1602,7 @@
     {
         "id":  "car-065",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 7)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -1627,7 +1627,7 @@
     {
         "id":  "car-066",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 7)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -1652,7 +1652,7 @@
     {
         "id":  "car-067",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 7)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -1677,7 +1677,7 @@
     {
         "id":  "car-068",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 7)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -1702,7 +1702,7 @@
     {
         "id":  "car-069",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 7)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -1727,7 +1727,7 @@
     {
         "id":  "car-070",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 7)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -1752,7 +1752,7 @@
     {
         "id":  "car-071",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 8)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -1777,7 +1777,7 @@
     {
         "id":  "car-072",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 8)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -1802,7 +1802,7 @@
     {
         "id":  "car-073",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 8)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -1827,7 +1827,7 @@
     {
         "id":  "car-074",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 8)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -1852,7 +1852,7 @@
     {
         "id":  "car-075",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 8)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -1877,7 +1877,7 @@
     {
         "id":  "car-076",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 8)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -1902,7 +1902,7 @@
     {
         "id":  "car-077",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 8)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -1927,7 +1927,7 @@
     {
         "id":  "car-078",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 8)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -1952,7 +1952,7 @@
     {
         "id":  "car-079",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 8)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -1977,7 +1977,7 @@
     {
         "id":  "car-080",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 8)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -2002,7 +2002,7 @@
     {
         "id":  "car-081",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 9)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -2027,7 +2027,7 @@
     {
         "id":  "car-082",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 9)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -2052,7 +2052,7 @@
     {
         "id":  "car-083",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 9)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -2077,7 +2077,7 @@
     {
         "id":  "car-084",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 9)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -2102,7 +2102,7 @@
     {
         "id":  "car-085",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 9)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -2127,7 +2127,7 @@
     {
         "id":  "car-086",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 9)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -2152,7 +2152,7 @@
     {
         "id":  "car-087",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 9)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -2177,7 +2177,7 @@
     {
         "id":  "car-088",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 9)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -2202,7 +2202,7 @@
     {
         "id":  "car-089",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 9)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -2227,7 +2227,7 @@
     {
         "id":  "car-090",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 9)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -2252,7 +2252,7 @@
     {
         "id":  "car-091",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 10)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -2277,7 +2277,7 @@
     {
         "id":  "car-092",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 10)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -2302,7 +2302,7 @@
     {
         "id":  "car-093",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 10)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -2327,7 +2327,7 @@
     {
         "id":  "car-094",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 10)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -2352,7 +2352,7 @@
     {
         "id":  "car-095",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 10)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -2377,7 +2377,7 @@
     {
         "id":  "car-096",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 10)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -2402,7 +2402,7 @@
     {
         "id":  "car-097",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 10)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -2427,7 +2427,7 @@
     {
         "id":  "car-098",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 10)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -2452,7 +2452,7 @@
     {
         "id":  "car-099",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 10)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -2477,7 +2477,7 @@
     {
         "id":  "car-100",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 10)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -2502,7 +2502,7 @@
     {
         "id":  "car-101",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 11)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -2527,7 +2527,7 @@
     {
         "id":  "car-102",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 11)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -2552,7 +2552,7 @@
     {
         "id":  "car-103",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 11)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -2577,7 +2577,7 @@
     {
         "id":  "car-104",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 11)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -2602,7 +2602,7 @@
     {
         "id":  "car-105",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 11)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -2627,7 +2627,7 @@
     {
         "id":  "car-106",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 11)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -2652,7 +2652,7 @@
     {
         "id":  "car-107",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 11)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -2677,7 +2677,7 @@
     {
         "id":  "car-108",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 11)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -2702,7 +2702,7 @@
     {
         "id":  "car-109",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 11)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -2727,7 +2727,7 @@
     {
         "id":  "car-110",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 11)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -2752,7 +2752,7 @@
     {
         "id":  "car-111",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 12)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -2777,7 +2777,7 @@
     {
         "id":  "car-112",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 12)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -2802,7 +2802,7 @@
     {
         "id":  "car-113",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 12)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -2827,7 +2827,7 @@
     {
         "id":  "car-114",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 12)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -2852,7 +2852,7 @@
     {
         "id":  "car-115",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 12)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -2877,7 +2877,7 @@
     {
         "id":  "car-116",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 12)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -2902,7 +2902,7 @@
     {
         "id":  "car-117",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 12)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -2927,7 +2927,7 @@
     {
         "id":  "car-118",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 12)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -2952,7 +2952,7 @@
     {
         "id":  "car-119",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 12)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -2977,7 +2977,7 @@
     {
         "id":  "car-120",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 12)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -3002,7 +3002,7 @@
     {
         "id":  "car-121",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 13)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -3027,7 +3027,7 @@
     {
         "id":  "car-122",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 13)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -3052,7 +3052,7 @@
     {
         "id":  "car-123",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 13)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -3077,7 +3077,7 @@
     {
         "id":  "car-124",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 13)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -3102,7 +3102,7 @@
     {
         "id":  "car-125",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 13)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -3127,7 +3127,7 @@
     {
         "id":  "car-126",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 13)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -3152,7 +3152,7 @@
     {
         "id":  "car-127",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 13)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -3177,7 +3177,7 @@
     {
         "id":  "car-128",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 13)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -3202,7 +3202,7 @@
     {
         "id":  "car-129",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 13)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -3227,7 +3227,7 @@
     {
         "id":  "car-130",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 13)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -3252,7 +3252,7 @@
     {
         "id":  "car-131",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 14)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -3277,7 +3277,7 @@
     {
         "id":  "car-132",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 14)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -3302,7 +3302,7 @@
     {
         "id":  "car-133",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 14)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -3327,7 +3327,7 @@
     {
         "id":  "car-134",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 14)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -3352,7 +3352,7 @@
     {
         "id":  "car-135",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 14)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -3377,7 +3377,7 @@
     {
         "id":  "car-136",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 14)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -3402,7 +3402,7 @@
     {
         "id":  "car-137",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 14)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -3427,7 +3427,7 @@
     {
         "id":  "car-138",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 14)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -3452,7 +3452,7 @@
     {
         "id":  "car-139",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 14)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -3477,7 +3477,7 @@
     {
         "id":  "car-140",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 14)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -3502,7 +3502,7 @@
     {
         "id":  "car-141",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 15)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -3527,7 +3527,7 @@
     {
         "id":  "car-142",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 15)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -3552,7 +3552,7 @@
     {
         "id":  "car-143",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 15)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -3577,7 +3577,7 @@
     {
         "id":  "car-144",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 15)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -3602,7 +3602,7 @@
     {
         "id":  "car-145",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 15)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -3627,7 +3627,7 @@
     {
         "id":  "car-146",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 15)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -3652,7 +3652,7 @@
     {
         "id":  "car-147",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 15)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -3677,7 +3677,7 @@
     {
         "id":  "car-148",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 15)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -3702,7 +3702,7 @@
     {
         "id":  "car-149",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 15)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -3727,7 +3727,7 @@
     {
         "id":  "car-150",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 15)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -3752,7 +3752,7 @@
     {
         "id":  "car-151",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 16)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -3777,7 +3777,7 @@
     {
         "id":  "car-152",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 16)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -3802,7 +3802,7 @@
     {
         "id":  "car-153",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 16)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -3827,7 +3827,7 @@
     {
         "id":  "car-154",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 16)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -3852,7 +3852,7 @@
     {
         "id":  "car-155",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 16)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -3877,7 +3877,7 @@
     {
         "id":  "car-156",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 16)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -3902,7 +3902,7 @@
     {
         "id":  "car-157",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 16)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -3927,7 +3927,7 @@
     {
         "id":  "car-158",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 16)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -3952,7 +3952,7 @@
     {
         "id":  "car-159",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 16)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -3977,7 +3977,7 @@
     {
         "id":  "car-160",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 16)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -4002,7 +4002,7 @@
     {
         "id":  "car-161",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 17)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -4027,7 +4027,7 @@
     {
         "id":  "car-162",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 17)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -4052,7 +4052,7 @@
     {
         "id":  "car-163",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 17)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -4077,7 +4077,7 @@
     {
         "id":  "car-164",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 17)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -4102,7 +4102,7 @@
     {
         "id":  "car-165",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 17)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -4127,7 +4127,7 @@
     {
         "id":  "car-166",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 17)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -4152,7 +4152,7 @@
     {
         "id":  "car-167",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 17)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -4177,7 +4177,7 @@
     {
         "id":  "car-168",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 17)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -4202,7 +4202,7 @@
     {
         "id":  "car-169",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 17)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -4227,7 +4227,7 @@
     {
         "id":  "car-170",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 17)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -4252,7 +4252,7 @@
     {
         "id":  "car-171",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 18)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -4277,7 +4277,7 @@
     {
         "id":  "car-172",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 18)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -4302,7 +4302,7 @@
     {
         "id":  "car-173",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 18)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -4327,7 +4327,7 @@
     {
         "id":  "car-174",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 18)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -4352,7 +4352,7 @@
     {
         "id":  "car-175",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 18)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -4377,7 +4377,7 @@
     {
         "id":  "car-176",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 18)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -4402,7 +4402,7 @@
     {
         "id":  "car-177",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 18)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -4427,7 +4427,7 @@
     {
         "id":  "car-178",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 18)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -4452,7 +4452,7 @@
     {
         "id":  "car-179",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 18)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -4477,7 +4477,7 @@
     {
         "id":  "car-180",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 18)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -4502,7 +4502,7 @@
     {
         "id":  "car-181",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 19)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -4527,7 +4527,7 @@
     {
         "id":  "car-182",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 19)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -4552,7 +4552,7 @@
     {
         "id":  "car-183",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 19)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -4577,7 +4577,7 @@
     {
         "id":  "car-184",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 19)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -4602,7 +4602,7 @@
     {
         "id":  "car-185",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 19)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -4627,7 +4627,7 @@
     {
         "id":  "car-186",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 19)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -4652,7 +4652,7 @@
     {
         "id":  "car-187",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 19)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -4677,7 +4677,7 @@
     {
         "id":  "car-188",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 19)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -4702,7 +4702,7 @@
     {
         "id":  "car-189",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 19)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -4727,7 +4727,7 @@
     {
         "id":  "car-190",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 19)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",
@@ -4752,7 +4752,7 @@
     {
         "id":  "car-191",
         "category":  "Cars",
-        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce (Part 20)",
+        "title":  "Active Aerodynamics \u0026 Ground-Effect Downforce",
         "subtitle":  "Venturi tunnels and active wing flap actuation in high-performance cars",
         "summary":  "Ground-effect aerodynamics uses shaped underbody Venturi tunnels to generate low air pressure beneath the car, pulling the vehicle to the tarmac at high speeds without adding aerodynamic drag.",
         "keyTakeaway":  "Aerodynamic grip uses air pressure differentials to multiply cornering speeds without increasing vehicle mass.",
@@ -4777,7 +4777,7 @@
     {
         "id":  "car-192",
         "category":  "Cars",
-        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control (Part 20)",
+        "title":  "Torque Vectoring \u0026 Dual-Motor Yaw Control",
         "subtitle":  "Independently regulating wheel torque to eliminate understeer",
         "summary":  "Torque vectoring sends variable power to individual drive wheels during cornering—over-speeding the outside rear wheel to actively rotate the vehicle into turns with extreme precision.",
         "keyTakeaway":  "Chassis dynamics shift from passive mechanical slip to active software-guided yaw rotation.",
@@ -4802,7 +4802,7 @@
     {
         "id":  "car-193",
         "category":  "Cars",
-        "title":  "Rotary Engines \u0026 Thermodynamic Limits (Part 20)",
+        "title":  "Rotary Engines \u0026 Thermodynamic Limits",
         "subtitle":  "The Wankel triangular rotor design and apex seal apex limits",
         "summary":  "Felix Wankel\u0027s rotary engine eliminates reciprocating pistons in favor of a triangular rotor turning inside an epitrochoidal housing, delivering incredible power density but struggling with thermal efficiency.",
         "keyTakeaway":  "Mechanical elegance can suffer from fundamental thermodynamic surface-area-to-volume limitations.",
@@ -4827,7 +4827,7 @@
     {
         "id":  "car-194",
         "category":  "Cars",
-        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing (Part 20)",
+        "title":  "Dual-Clutch Transmissions \u0026 Pre-selected Gearing",
         "subtitle":  "Seamless gear shifts executing in milliseconds via twin shafts",
         "summary":  "DCTs feature two separate clutches—one for odd gears, one for even gears. While gear 1 is engaged, gear 2 is already pre-selected, allowing shifts to execute in under 15 milliseconds.",
         "keyTakeaway":  "Pre-selection mechanics eliminate power interruption, marrying manual efficiency with automated lightning shifts.",
@@ -4852,7 +4852,7 @@
     {
         "id":  "car-195",
         "category":  "Cars",
-        "title":  "Carbon-Ceramic Brake Thermodynamics (Part 20)",
+        "title":  "Carbon-Ceramic Brake Thermodynamics",
         "subtitle":  "Silicon carbide composite rotors delivering fade-free high-G stopping",
         "summary":  "Carbon-ceramic brakes withstand temperatures exceeding 1,000°C without thermal degradation or brake fade, while reducing un-sprung rotational mass by up to 50% compared to cast iron.",
         "keyTakeaway":  "Reducing unsprung mass dramatically improves suspension response alongside race-grade stopping power.",
@@ -4877,7 +4877,7 @@
     {
         "id":  "car-196",
         "category":  "Cars",
-        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics (Part 20)",
+        "title":  "Variable Valve Timing \u0026 Cam Phaser Dynamics",
         "subtitle":  "Optimizing volumetric efficiency across low and high RPM ranges",
         "summary":  "VVT systems use hydraulic oil pressure to rotate camshaft phasers relative to the crankshaft, altering valve opening duration and overlap to balance low-RPM torque with high-RPM horsepower.",
         "keyTakeaway":  "Dynamic engine valve timing adapts internal airflow geometry across varying engine speeds.",
@@ -4902,7 +4902,7 @@
     {
         "id":  "car-197",
         "category":  "Cars",
-        "title":  "Homogeneous Charge Compression Ignition (HCCI) (Part 20)",
+        "title":  "Homogeneous Charge Compression Ignition (HCCI)",
         "subtitle":  "Combining gasoline spark ignition with diesel compression efficiency",
         "summary":  "HCCI engines auto-ignite a lean gasoline-air mixture through compression alone, achieving ultra-high thermal efficiency and minimal NOx emissions without requiring spark plugs at cruising speeds.",
         "keyTakeaway":  "Engineers merge spark and compression ignition to push internal combustion toward thermodynamic limits.",
@@ -4927,7 +4927,7 @@
     {
         "id":  "car-198",
         "category":  "Cars",
-        "title":  "Torsen Mechanical Torque Allocation (Part 20)",
+        "title":  "Torsen Mechanical Torque Allocation",
         "subtitle":  "Worm gear mechanics distributing torque based on instantaneous wheel traction",
         "summary":  "Torsen (Torque-Sensing) differentials use helical worm gear sets to automatically multiply and transfer torque to the tires with the most grip without electronic latency.",
         "keyTakeaway":  "Pure mechanical gear engagement provides instant, smooth all-wheel drive traction without sensors.",
@@ -4952,7 +4952,7 @@
     {
         "id":  "car-199",
         "category":  "Cars",
-        "title":  "Lightweight Carbon Fiber Monocoque Chassis (Part 20)",
+        "title":  "Lightweight Carbon Fiber Monocoque Chassis",
         "subtitle":  "Structural carbon tubs providing extreme torsional rigidity",
         "summary":  "Formula 1 and supercar monocoques construct passenger cells from woven carbon fiber impregnated with epoxy resin, cured in autoclaves to yield unparalleled strength-to-weight ratios.",
         "keyTakeaway":  "Carbon composite structures maximize passenger safety while minimizing vehicle curb weight.",
@@ -4977,7 +4977,7 @@
     {
         "id":  "car-200",
         "category":  "Cars",
-        "title":  "Dry Sump Lubrication in High-G Vehicles (Part 20)",
+        "title":  "Dry Sump Lubrication in High-G Vehicles",
         "subtitle":  "External oil reservoirs preventing engine starvation during hard cornering",
         "summary":  "Unlike wet-sump engines, dry-sump systems scavenge oil from a shallow pan into an external pressurized tank, ensuring continuous oil pressure under 2G cornering loads.",
         "keyTakeaway":  "Specialized lubrication systems protect high-RPM engines against extreme lateral centrifugal forces.",

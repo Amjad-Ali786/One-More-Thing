@@ -252,7 +252,7 @@
     {
         "id":  "phi-011",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 2)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -277,7 +277,7 @@
     {
         "id":  "phi-012",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 2)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -302,7 +302,7 @@
     {
         "id":  "phi-013",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 2)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -327,7 +327,7 @@
     {
         "id":  "phi-014",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 2)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -352,7 +352,7 @@
     {
         "id":  "phi-015",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 2)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -377,7 +377,7 @@
     {
         "id":  "phi-016",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 2)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -402,7 +402,7 @@
     {
         "id":  "phi-017",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 2)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -427,7 +427,7 @@
     {
         "id":  "phi-018",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 2)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -452,7 +452,7 @@
     {
         "id":  "phi-019",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 2)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -477,7 +477,7 @@
     {
         "id":  "phi-020",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 2)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -502,7 +502,7 @@
     {
         "id":  "phi-021",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 3)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -527,7 +527,7 @@
     {
         "id":  "phi-022",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 3)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -552,7 +552,7 @@
     {
         "id":  "phi-023",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 3)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -577,7 +577,7 @@
     {
         "id":  "phi-024",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 3)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -602,7 +602,7 @@
     {
         "id":  "phi-025",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 3)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -627,7 +627,7 @@
     {
         "id":  "phi-026",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 3)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -652,7 +652,7 @@
     {
         "id":  "phi-027",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 3)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -677,7 +677,7 @@
     {
         "id":  "phi-028",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 3)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -702,7 +702,7 @@
     {
         "id":  "phi-029",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 3)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -727,7 +727,7 @@
     {
         "id":  "phi-030",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 3)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -752,7 +752,7 @@
     {
         "id":  "phi-031",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 4)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -777,7 +777,7 @@
     {
         "id":  "phi-032",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 4)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -802,7 +802,7 @@
     {
         "id":  "phi-033",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 4)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -827,7 +827,7 @@
     {
         "id":  "phi-034",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 4)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -852,7 +852,7 @@
     {
         "id":  "phi-035",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 4)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -877,7 +877,7 @@
     {
         "id":  "phi-036",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 4)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -902,7 +902,7 @@
     {
         "id":  "phi-037",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 4)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -927,7 +927,7 @@
     {
         "id":  "phi-038",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 4)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -952,7 +952,7 @@
     {
         "id":  "phi-039",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 4)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -977,7 +977,7 @@
     {
         "id":  "phi-040",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 4)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -1002,7 +1002,7 @@
     {
         "id":  "phi-041",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 5)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -1027,7 +1027,7 @@
     {
         "id":  "phi-042",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 5)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -1052,7 +1052,7 @@
     {
         "id":  "phi-043",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 5)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -1077,7 +1077,7 @@
     {
         "id":  "phi-044",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 5)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -1102,7 +1102,7 @@
     {
         "id":  "phi-045",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 5)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -1127,7 +1127,7 @@
     {
         "id":  "phi-046",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 5)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -1152,7 +1152,7 @@
     {
         "id":  "phi-047",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 5)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -1177,7 +1177,7 @@
     {
         "id":  "phi-048",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 5)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -1202,7 +1202,7 @@
     {
         "id":  "phi-049",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 5)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -1227,7 +1227,7 @@
     {
         "id":  "phi-050",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 5)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -1252,7 +1252,7 @@
     {
         "id":  "phi-051",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 6)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -1277,7 +1277,7 @@
     {
         "id":  "phi-052",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 6)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -1302,7 +1302,7 @@
     {
         "id":  "phi-053",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 6)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -1327,7 +1327,7 @@
     {
         "id":  "phi-054",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 6)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -1352,7 +1352,7 @@
     {
         "id":  "phi-055",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 6)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -1377,7 +1377,7 @@
     {
         "id":  "phi-056",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 6)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -1402,7 +1402,7 @@
     {
         "id":  "phi-057",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 6)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -1427,7 +1427,7 @@
     {
         "id":  "phi-058",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 6)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -1452,7 +1452,7 @@
     {
         "id":  "phi-059",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 6)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -1477,7 +1477,7 @@
     {
         "id":  "phi-060",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 6)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -1502,7 +1502,7 @@
     {
         "id":  "phi-061",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 7)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -1527,7 +1527,7 @@
     {
         "id":  "phi-062",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 7)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -1552,7 +1552,7 @@
     {
         "id":  "phi-063",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 7)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -1577,7 +1577,7 @@
     {
         "id":  "phi-064",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 7)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -1602,7 +1602,7 @@
     {
         "id":  "phi-065",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 7)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -1627,7 +1627,7 @@
     {
         "id":  "phi-066",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 7)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -1652,7 +1652,7 @@
     {
         "id":  "phi-067",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 7)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -1677,7 +1677,7 @@
     {
         "id":  "phi-068",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 7)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -1702,7 +1702,7 @@
     {
         "id":  "phi-069",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 7)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -1727,7 +1727,7 @@
     {
         "id":  "phi-070",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 7)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -1752,7 +1752,7 @@
     {
         "id":  "phi-071",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 8)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -1777,7 +1777,7 @@
     {
         "id":  "phi-072",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 8)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -1802,7 +1802,7 @@
     {
         "id":  "phi-073",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 8)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -1827,7 +1827,7 @@
     {
         "id":  "phi-074",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 8)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -1852,7 +1852,7 @@
     {
         "id":  "phi-075",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 8)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -1877,7 +1877,7 @@
     {
         "id":  "phi-076",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 8)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -1902,7 +1902,7 @@
     {
         "id":  "phi-077",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 8)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -1927,7 +1927,7 @@
     {
         "id":  "phi-078",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 8)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -1952,7 +1952,7 @@
     {
         "id":  "phi-079",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 8)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -1977,7 +1977,7 @@
     {
         "id":  "phi-080",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 8)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -2002,7 +2002,7 @@
     {
         "id":  "phi-081",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 9)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -2027,7 +2027,7 @@
     {
         "id":  "phi-082",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 9)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -2052,7 +2052,7 @@
     {
         "id":  "phi-083",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 9)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -2077,7 +2077,7 @@
     {
         "id":  "phi-084",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 9)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -2102,7 +2102,7 @@
     {
         "id":  "phi-085",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 9)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -2127,7 +2127,7 @@
     {
         "id":  "phi-086",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 9)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -2152,7 +2152,7 @@
     {
         "id":  "phi-087",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 9)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -2177,7 +2177,7 @@
     {
         "id":  "phi-088",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 9)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -2202,7 +2202,7 @@
     {
         "id":  "phi-089",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 9)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -2227,7 +2227,7 @@
     {
         "id":  "phi-090",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 9)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -2252,7 +2252,7 @@
     {
         "id":  "phi-091",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 10)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -2277,7 +2277,7 @@
     {
         "id":  "phi-092",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 10)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -2302,7 +2302,7 @@
     {
         "id":  "phi-093",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 10)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -2327,7 +2327,7 @@
     {
         "id":  "phi-094",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 10)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -2352,7 +2352,7 @@
     {
         "id":  "phi-095",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 10)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -2377,7 +2377,7 @@
     {
         "id":  "phi-096",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 10)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -2402,7 +2402,7 @@
     {
         "id":  "phi-097",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 10)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -2427,7 +2427,7 @@
     {
         "id":  "phi-098",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 10)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -2452,7 +2452,7 @@
     {
         "id":  "phi-099",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 10)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -2477,7 +2477,7 @@
     {
         "id":  "phi-100",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 10)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -2502,7 +2502,7 @@
     {
         "id":  "phi-101",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 11)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -2527,7 +2527,7 @@
     {
         "id":  "phi-102",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 11)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -2552,7 +2552,7 @@
     {
         "id":  "phi-103",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 11)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -2577,7 +2577,7 @@
     {
         "id":  "phi-104",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 11)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -2602,7 +2602,7 @@
     {
         "id":  "phi-105",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 11)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -2627,7 +2627,7 @@
     {
         "id":  "phi-106",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 11)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -2652,7 +2652,7 @@
     {
         "id":  "phi-107",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 11)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -2677,7 +2677,7 @@
     {
         "id":  "phi-108",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 11)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -2702,7 +2702,7 @@
     {
         "id":  "phi-109",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 11)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -2727,7 +2727,7 @@
     {
         "id":  "phi-110",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 11)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -2752,7 +2752,7 @@
     {
         "id":  "phi-111",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 12)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -2777,7 +2777,7 @@
     {
         "id":  "phi-112",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 12)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -2802,7 +2802,7 @@
     {
         "id":  "phi-113",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 12)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -2827,7 +2827,7 @@
     {
         "id":  "phi-114",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 12)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -2852,7 +2852,7 @@
     {
         "id":  "phi-115",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 12)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -2877,7 +2877,7 @@
     {
         "id":  "phi-116",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 12)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -2902,7 +2902,7 @@
     {
         "id":  "phi-117",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 12)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -2927,7 +2927,7 @@
     {
         "id":  "phi-118",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 12)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -2952,7 +2952,7 @@
     {
         "id":  "phi-119",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 12)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -2977,7 +2977,7 @@
     {
         "id":  "phi-120",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 12)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -3002,7 +3002,7 @@
     {
         "id":  "phi-121",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 13)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -3027,7 +3027,7 @@
     {
         "id":  "phi-122",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 13)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -3052,7 +3052,7 @@
     {
         "id":  "phi-123",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 13)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -3077,7 +3077,7 @@
     {
         "id":  "phi-124",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 13)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -3102,7 +3102,7 @@
     {
         "id":  "phi-125",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 13)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -3127,7 +3127,7 @@
     {
         "id":  "phi-126",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 13)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -3152,7 +3152,7 @@
     {
         "id":  "phi-127",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 13)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -3177,7 +3177,7 @@
     {
         "id":  "phi-128",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 13)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -3202,7 +3202,7 @@
     {
         "id":  "phi-129",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 13)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -3227,7 +3227,7 @@
     {
         "id":  "phi-130",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 13)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -3252,7 +3252,7 @@
     {
         "id":  "phi-131",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 14)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -3277,7 +3277,7 @@
     {
         "id":  "phi-132",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 14)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -3302,7 +3302,7 @@
     {
         "id":  "phi-133",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 14)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -3327,7 +3327,7 @@
     {
         "id":  "phi-134",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 14)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -3352,7 +3352,7 @@
     {
         "id":  "phi-135",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 14)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -3377,7 +3377,7 @@
     {
         "id":  "phi-136",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 14)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -3402,7 +3402,7 @@
     {
         "id":  "phi-137",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 14)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -3427,7 +3427,7 @@
     {
         "id":  "phi-138",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 14)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -3452,7 +3452,7 @@
     {
         "id":  "phi-139",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 14)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -3477,7 +3477,7 @@
     {
         "id":  "phi-140",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 14)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -3502,7 +3502,7 @@
     {
         "id":  "phi-141",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 15)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -3527,7 +3527,7 @@
     {
         "id":  "phi-142",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 15)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -3552,7 +3552,7 @@
     {
         "id":  "phi-143",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 15)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -3577,7 +3577,7 @@
     {
         "id":  "phi-144",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 15)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -3602,7 +3602,7 @@
     {
         "id":  "phi-145",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 15)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -3627,7 +3627,7 @@
     {
         "id":  "phi-146",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 15)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -3652,7 +3652,7 @@
     {
         "id":  "phi-147",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 15)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -3677,7 +3677,7 @@
     {
         "id":  "phi-148",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 15)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -3702,7 +3702,7 @@
     {
         "id":  "phi-149",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 15)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -3727,7 +3727,7 @@
     {
         "id":  "phi-150",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 15)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -3752,7 +3752,7 @@
     {
         "id":  "phi-151",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 16)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -3777,7 +3777,7 @@
     {
         "id":  "phi-152",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 16)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -3802,7 +3802,7 @@
     {
         "id":  "phi-153",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 16)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -3827,7 +3827,7 @@
     {
         "id":  "phi-154",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 16)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -3852,7 +3852,7 @@
     {
         "id":  "phi-155",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 16)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -3877,7 +3877,7 @@
     {
         "id":  "phi-156",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 16)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -3902,7 +3902,7 @@
     {
         "id":  "phi-157",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 16)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -3927,7 +3927,7 @@
     {
         "id":  "phi-158",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 16)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -3952,7 +3952,7 @@
     {
         "id":  "phi-159",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 16)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -3977,7 +3977,7 @@
     {
         "id":  "phi-160",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 16)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -4002,7 +4002,7 @@
     {
         "id":  "phi-161",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 17)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -4027,7 +4027,7 @@
     {
         "id":  "phi-162",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 17)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -4052,7 +4052,7 @@
     {
         "id":  "phi-163",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 17)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -4077,7 +4077,7 @@
     {
         "id":  "phi-164",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 17)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -4102,7 +4102,7 @@
     {
         "id":  "phi-165",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 17)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -4127,7 +4127,7 @@
     {
         "id":  "phi-166",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 17)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -4152,7 +4152,7 @@
     {
         "id":  "phi-167",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 17)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -4177,7 +4177,7 @@
     {
         "id":  "phi-168",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 17)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -4202,7 +4202,7 @@
     {
         "id":  "phi-169",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 17)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -4227,7 +4227,7 @@
     {
         "id":  "phi-170",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 17)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -4252,7 +4252,7 @@
     {
         "id":  "phi-171",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 18)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -4277,7 +4277,7 @@
     {
         "id":  "phi-172",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 18)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -4302,7 +4302,7 @@
     {
         "id":  "phi-173",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 18)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -4327,7 +4327,7 @@
     {
         "id":  "phi-174",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 18)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -4352,7 +4352,7 @@
     {
         "id":  "phi-175",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 18)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -4377,7 +4377,7 @@
     {
         "id":  "phi-176",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 18)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -4402,7 +4402,7 @@
     {
         "id":  "phi-177",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 18)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -4427,7 +4427,7 @@
     {
         "id":  "phi-178",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 18)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -4452,7 +4452,7 @@
     {
         "id":  "phi-179",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 18)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -4477,7 +4477,7 @@
     {
         "id":  "phi-180",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 18)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -4502,7 +4502,7 @@
     {
         "id":  "phi-181",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 19)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -4527,7 +4527,7 @@
     {
         "id":  "phi-182",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 19)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -4552,7 +4552,7 @@
     {
         "id":  "phi-183",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 19)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -4577,7 +4577,7 @@
     {
         "id":  "phi-184",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 19)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -4602,7 +4602,7 @@
     {
         "id":  "phi-185",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 19)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -4627,7 +4627,7 @@
     {
         "id":  "phi-186",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 19)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -4652,7 +4652,7 @@
     {
         "id":  "phi-187",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 19)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -4677,7 +4677,7 @@
     {
         "id":  "phi-188",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 19)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -4702,7 +4702,7 @@
     {
         "id":  "phi-189",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 19)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -4727,7 +4727,7 @@
     {
         "id":  "phi-190",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 19)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",
@@ -4752,7 +4752,7 @@
     {
         "id":  "phi-191",
         "category":  "Philosophy",
-        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps (Part 20)",
+        "title":  "Epistemic Injustice \u0026 Hermeneutical Gaps",
         "subtitle":  "How systemic biases prevent certain groups from being heard or understood",
         "summary":  "Epistemic injustice occurs when someone is discredited as a speaker due to prejudice (testimonial injustice) or lacks social concepts to describe their experience (hermeneutical injustice).",
         "keyTakeaway":  "Knowledge production is deeply entangled with social power and structural privilege.",
@@ -4777,7 +4777,7 @@
     {
         "id":  "phi-192",
         "category":  "Philosophy",
-        "title":  "Ship of Theseus \u0026 Persistence Through Time (Part 20)",
+        "title":  "Ship of Theseus \u0026 Persistence Through Time",
         "subtitle":  "The classic paradox exploring whether an object remains identical after all parts are replaced",
         "summary":  "If every wooden plank of Theseus\u0027s ship is replaced over years, is it still the same ship? And if original planks are reassembled, which one is genuine?",
         "keyTakeaway":  "Identity over time requires reconciling physical continuity with organizational form.",
@@ -4802,7 +4802,7 @@
     {
         "id":  "phi-193",
         "category":  "Philosophy",
-        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism (Part 20)",
+        "title":  "Extended Mind Thesis \u0026 Cognitive Externalism",
         "subtitle":  "The theory that mind and cognition extend beyond the brain into physical tools",
         "summary":  "Proposed by Clark and Chalmers, the Extended Mind Thesis asserts that notebooks, smartphones, and external calculation tools act as literal physical constituents of human memory and cognition.",
         "keyTakeaway":  "The human mind is not bounded by the skull; it merges with technology and environment.",
@@ -4827,7 +4827,7 @@
     {
         "id":  "phi-194",
         "category":  "Philosophy",
-        "title":  "Radical Constructivism \u0026 Objective Reality (Part 20)",
+        "title":  "Radical Constructivism \u0026 Objective Reality",
         "subtitle":  "The epistemological view that knowledge is constructed rather than discovered",
         "summary":  "Radical constructivism posits that human knowledge is constructed by the brain to organize sensory experience, meaning absolute objective reality cannot be independently accessed.",
         "keyTakeaway":  "Truth is a coherent conceptual structure built by conscious experience rather than a direct mirror of external reality.",
@@ -4852,7 +4852,7 @@
     {
         "id":  "phi-195",
         "category":  "Philosophy",
-        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism (Part 20)",
+        "title":  "The Hard Problem of Consciousness \u0026 Panpsychism",
         "subtitle":  "Explaining why physical brain processes give rise to subjective experience",
         "summary":  "Coined by David Chalmers, the Hard Problem asks why physical neural firings result in qualia (subjective sensation). Panpsychism proposes consciousness is a fundamental property of all physical matter.",
         "keyTakeaway":  "Consciousness may be a fundamental building block of the universe, like mass or charge.",
@@ -4877,7 +4877,7 @@
     {
         "id":  "phi-196",
         "category":  "Philosophy",
-        "title":  "Frankfurt Cases \u0026 Moral Responsibility (Part 20)",
+        "title":  "Frankfurt Cases \u0026 Moral Responsibility",
         "subtitle":  "Gedankenexperiments showing moral accountability without alternative possibilities",
         "summary":  "Harry Frankfurt demonstrated that a person can be morally responsible for an action even if they could not have done otherwise, challenging traditional definitions of free will.",
         "keyTakeaway":  "Moral responsibility hinges on intentional endorsement of action rather than alternative choices.",
@@ -4902,7 +4902,7 @@
     {
         "id":  "phi-197",
         "category":  "Philosophy",
-        "title":  "Phenomenological Dasein \u0026 Heideggerian Being (Part 20)",
+        "title":  "Phenomenological Dasein \u0026 Heideggerian Being",
         "subtitle":  "Exploring human existence as Being-in-the-World",
         "summary":  "Martin Heidegger rejected subject-object duality, describing human existence as Dasein—an entity inherently immersed in, engaged with, and defined by its active practical environment.",
         "keyTakeaway":  "We do not observe the world from afar; our very existence is defined by practical involvement.",
@@ -4927,7 +4927,7 @@
     {
         "id":  "phi-198",
         "category":  "Philosophy",
-        "title":  "Modal Realism \u0026 Possible Worlds Theory (Part 20)",
+        "title":  "Modal Realism \u0026 Possible Worlds Theory",
         "subtitle":  "David Lewis\u0027s controversial stance that all possible worlds actually exist",
         "summary":  "Modal Realism asserts that counterfactual statements (\u0027if Germany had won WW2\u0027) are made true by actual existing parallel universes that are physically separated from ours.",
         "keyTakeaway":  "Possibility is not a mental abstraction; it describes real physical worlds existing in modal space.",
@@ -4952,7 +4952,7 @@
     {
         "id":  "phi-199",
         "category":  "Philosophy",
-        "title":  "Process Philosophy \u0026 Whiteheadian Becoming (Part 20)",
+        "title":  "Process Philosophy \u0026 Whiteheadian Becoming",
         "subtitle":  "Viewing reality as a dynamic web of events rather than static objects",
         "summary":  "Alfred North Whitehead argued that fundamental reality consists of interconnected events and process (\u0027becoming\u0027) rather than permanent static physical matter (\u0027being\u0027).",
         "keyTakeaway":  "The universe is an evolving process of relationships rather than a collection of isolated things.",
@@ -4977,7 +4977,7 @@
     {
         "id":  "phi-200",
         "category":  "Philosophy",
-        "title":  "Eliminative Materialism \u0026 The Illusory Qualia (Part 20)",
+        "title":  "Eliminative Materialism \u0026 The Illusory Qualia",
         "subtitle":  "Neurophilosophical view that folk psychological concepts do not exist",
         "summary":  "Patricia and Paul Churchland argue that beliefs, desires, and subjective feelings are outdated folk concepts that will be completely replaced by neurobiological explanations.",
         "keyTakeaway":  "Our intuitive mental concepts may be scientific illusions destined for replacement by neuroscience.",

@@ -252,7 +252,7 @@
     {
         "id":  "des-011",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 2)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -277,7 +277,7 @@
     {
         "id":  "des-012",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 2)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -302,7 +302,7 @@
     {
         "id":  "des-013",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 2)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -327,7 +327,7 @@
     {
         "id":  "des-014",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 2)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -352,7 +352,7 @@
     {
         "id":  "des-015",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 2)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -377,7 +377,7 @@
     {
         "id":  "des-016",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 2)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -402,7 +402,7 @@
     {
         "id":  "des-017",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 2)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -427,7 +427,7 @@
     {
         "id":  "des-018",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 2)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -452,7 +452,7 @@
     {
         "id":  "des-019",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 2)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -477,7 +477,7 @@
     {
         "id":  "des-020",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 2)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -502,7 +502,7 @@
     {
         "id":  "des-021",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 3)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -527,7 +527,7 @@
     {
         "id":  "des-022",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 3)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -552,7 +552,7 @@
     {
         "id":  "des-023",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 3)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -577,7 +577,7 @@
     {
         "id":  "des-024",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 3)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -602,7 +602,7 @@
     {
         "id":  "des-025",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 3)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -627,7 +627,7 @@
     {
         "id":  "des-026",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 3)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -652,7 +652,7 @@
     {
         "id":  "des-027",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 3)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -677,7 +677,7 @@
     {
         "id":  "des-028",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 3)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -702,7 +702,7 @@
     {
         "id":  "des-029",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 3)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -727,7 +727,7 @@
     {
         "id":  "des-030",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 3)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -752,7 +752,7 @@
     {
         "id":  "des-031",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 4)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -777,7 +777,7 @@
     {
         "id":  "des-032",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 4)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -802,7 +802,7 @@
     {
         "id":  "des-033",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 4)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -827,7 +827,7 @@
     {
         "id":  "des-034",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 4)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -852,7 +852,7 @@
     {
         "id":  "des-035",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 4)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -877,7 +877,7 @@
     {
         "id":  "des-036",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 4)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -902,7 +902,7 @@
     {
         "id":  "des-037",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 4)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -927,7 +927,7 @@
     {
         "id":  "des-038",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 4)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -952,7 +952,7 @@
     {
         "id":  "des-039",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 4)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -977,7 +977,7 @@
     {
         "id":  "des-040",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 4)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -1002,7 +1002,7 @@
     {
         "id":  "des-041",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 5)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -1027,7 +1027,7 @@
     {
         "id":  "des-042",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 5)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -1052,7 +1052,7 @@
     {
         "id":  "des-043",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 5)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -1077,7 +1077,7 @@
     {
         "id":  "des-044",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 5)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -1102,7 +1102,7 @@
     {
         "id":  "des-045",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 5)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -1127,7 +1127,7 @@
     {
         "id":  "des-046",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 5)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -1152,7 +1152,7 @@
     {
         "id":  "des-047",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 5)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -1177,7 +1177,7 @@
     {
         "id":  "des-048",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 5)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -1202,7 +1202,7 @@
     {
         "id":  "des-049",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 5)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -1227,7 +1227,7 @@
     {
         "id":  "des-050",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 5)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -1252,7 +1252,7 @@
     {
         "id":  "des-051",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 6)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -1277,7 +1277,7 @@
     {
         "id":  "des-052",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 6)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -1302,7 +1302,7 @@
     {
         "id":  "des-053",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 6)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -1327,7 +1327,7 @@
     {
         "id":  "des-054",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 6)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -1352,7 +1352,7 @@
     {
         "id":  "des-055",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 6)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -1377,7 +1377,7 @@
     {
         "id":  "des-056",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 6)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -1402,7 +1402,7 @@
     {
         "id":  "des-057",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 6)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -1427,7 +1427,7 @@
     {
         "id":  "des-058",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 6)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -1452,7 +1452,7 @@
     {
         "id":  "des-059",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 6)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -1477,7 +1477,7 @@
     {
         "id":  "des-060",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 6)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -1502,7 +1502,7 @@
     {
         "id":  "des-061",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 7)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -1527,7 +1527,7 @@
     {
         "id":  "des-062",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 7)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -1552,7 +1552,7 @@
     {
         "id":  "des-063",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 7)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -1577,7 +1577,7 @@
     {
         "id":  "des-064",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 7)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -1602,7 +1602,7 @@
     {
         "id":  "des-065",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 7)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -1627,7 +1627,7 @@
     {
         "id":  "des-066",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 7)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -1652,7 +1652,7 @@
     {
         "id":  "des-067",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 7)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -1677,7 +1677,7 @@
     {
         "id":  "des-068",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 7)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -1702,7 +1702,7 @@
     {
         "id":  "des-069",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 7)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -1727,7 +1727,7 @@
     {
         "id":  "des-070",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 7)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -1752,7 +1752,7 @@
     {
         "id":  "des-071",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 8)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -1777,7 +1777,7 @@
     {
         "id":  "des-072",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 8)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -1802,7 +1802,7 @@
     {
         "id":  "des-073",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 8)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -1827,7 +1827,7 @@
     {
         "id":  "des-074",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 8)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -1852,7 +1852,7 @@
     {
         "id":  "des-075",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 8)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -1877,7 +1877,7 @@
     {
         "id":  "des-076",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 8)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -1902,7 +1902,7 @@
     {
         "id":  "des-077",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 8)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -1927,7 +1927,7 @@
     {
         "id":  "des-078",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 8)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -1952,7 +1952,7 @@
     {
         "id":  "des-079",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 8)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -1977,7 +1977,7 @@
     {
         "id":  "des-080",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 8)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -2002,7 +2002,7 @@
     {
         "id":  "des-081",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 9)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -2027,7 +2027,7 @@
     {
         "id":  "des-082",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 9)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -2052,7 +2052,7 @@
     {
         "id":  "des-083",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 9)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -2077,7 +2077,7 @@
     {
         "id":  "des-084",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 9)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -2102,7 +2102,7 @@
     {
         "id":  "des-085",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 9)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -2127,7 +2127,7 @@
     {
         "id":  "des-086",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 9)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -2152,7 +2152,7 @@
     {
         "id":  "des-087",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 9)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -2177,7 +2177,7 @@
     {
         "id":  "des-088",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 9)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -2202,7 +2202,7 @@
     {
         "id":  "des-089",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 9)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -2227,7 +2227,7 @@
     {
         "id":  "des-090",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 9)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -2252,7 +2252,7 @@
     {
         "id":  "des-091",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 10)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -2277,7 +2277,7 @@
     {
         "id":  "des-092",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 10)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -2302,7 +2302,7 @@
     {
         "id":  "des-093",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 10)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -2327,7 +2327,7 @@
     {
         "id":  "des-094",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 10)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -2352,7 +2352,7 @@
     {
         "id":  "des-095",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 10)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -2377,7 +2377,7 @@
     {
         "id":  "des-096",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 10)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -2402,7 +2402,7 @@
     {
         "id":  "des-097",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 10)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -2427,7 +2427,7 @@
     {
         "id":  "des-098",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 10)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -2452,7 +2452,7 @@
     {
         "id":  "des-099",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 10)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -2477,7 +2477,7 @@
     {
         "id":  "des-100",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 10)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -2502,7 +2502,7 @@
     {
         "id":  "des-101",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 11)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -2527,7 +2527,7 @@
     {
         "id":  "des-102",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 11)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -2552,7 +2552,7 @@
     {
         "id":  "des-103",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 11)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -2577,7 +2577,7 @@
     {
         "id":  "des-104",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 11)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -2602,7 +2602,7 @@
     {
         "id":  "des-105",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 11)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -2627,7 +2627,7 @@
     {
         "id":  "des-106",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 11)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -2652,7 +2652,7 @@
     {
         "id":  "des-107",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 11)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -2677,7 +2677,7 @@
     {
         "id":  "des-108",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 11)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -2702,7 +2702,7 @@
     {
         "id":  "des-109",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 11)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -2727,7 +2727,7 @@
     {
         "id":  "des-110",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 11)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -2752,7 +2752,7 @@
     {
         "id":  "des-111",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 12)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -2777,7 +2777,7 @@
     {
         "id":  "des-112",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 12)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -2802,7 +2802,7 @@
     {
         "id":  "des-113",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 12)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -2827,7 +2827,7 @@
     {
         "id":  "des-114",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 12)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -2852,7 +2852,7 @@
     {
         "id":  "des-115",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 12)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -2877,7 +2877,7 @@
     {
         "id":  "des-116",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 12)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -2902,7 +2902,7 @@
     {
         "id":  "des-117",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 12)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -2927,7 +2927,7 @@
     {
         "id":  "des-118",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 12)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -2952,7 +2952,7 @@
     {
         "id":  "des-119",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 12)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -2977,7 +2977,7 @@
     {
         "id":  "des-120",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 12)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -3002,7 +3002,7 @@
     {
         "id":  "des-121",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 13)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -3027,7 +3027,7 @@
     {
         "id":  "des-122",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 13)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -3052,7 +3052,7 @@
     {
         "id":  "des-123",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 13)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -3077,7 +3077,7 @@
     {
         "id":  "des-124",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 13)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -3102,7 +3102,7 @@
     {
         "id":  "des-125",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 13)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -3127,7 +3127,7 @@
     {
         "id":  "des-126",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 13)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -3152,7 +3152,7 @@
     {
         "id":  "des-127",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 13)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -3177,7 +3177,7 @@
     {
         "id":  "des-128",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 13)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -3202,7 +3202,7 @@
     {
         "id":  "des-129",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 13)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -3227,7 +3227,7 @@
     {
         "id":  "des-130",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 13)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -3252,7 +3252,7 @@
     {
         "id":  "des-131",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 14)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -3277,7 +3277,7 @@
     {
         "id":  "des-132",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 14)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -3302,7 +3302,7 @@
     {
         "id":  "des-133",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 14)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -3327,7 +3327,7 @@
     {
         "id":  "des-134",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 14)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -3352,7 +3352,7 @@
     {
         "id":  "des-135",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 14)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -3377,7 +3377,7 @@
     {
         "id":  "des-136",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 14)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -3402,7 +3402,7 @@
     {
         "id":  "des-137",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 14)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -3427,7 +3427,7 @@
     {
         "id":  "des-138",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 14)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -3452,7 +3452,7 @@
     {
         "id":  "des-139",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 14)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -3477,7 +3477,7 @@
     {
         "id":  "des-140",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 14)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -3502,7 +3502,7 @@
     {
         "id":  "des-141",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 15)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -3527,7 +3527,7 @@
     {
         "id":  "des-142",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 15)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -3552,7 +3552,7 @@
     {
         "id":  "des-143",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 15)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -3577,7 +3577,7 @@
     {
         "id":  "des-144",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 15)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -3602,7 +3602,7 @@
     {
         "id":  "des-145",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 15)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -3627,7 +3627,7 @@
     {
         "id":  "des-146",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 15)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -3652,7 +3652,7 @@
     {
         "id":  "des-147",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 15)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -3677,7 +3677,7 @@
     {
         "id":  "des-148",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 15)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -3702,7 +3702,7 @@
     {
         "id":  "des-149",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 15)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -3727,7 +3727,7 @@
     {
         "id":  "des-150",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 15)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -3752,7 +3752,7 @@
     {
         "id":  "des-151",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 16)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -3777,7 +3777,7 @@
     {
         "id":  "des-152",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 16)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -3802,7 +3802,7 @@
     {
         "id":  "des-153",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 16)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -3827,7 +3827,7 @@
     {
         "id":  "des-154",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 16)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -3852,7 +3852,7 @@
     {
         "id":  "des-155",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 16)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -3877,7 +3877,7 @@
     {
         "id":  "des-156",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 16)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -3902,7 +3902,7 @@
     {
         "id":  "des-157",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 16)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -3927,7 +3927,7 @@
     {
         "id":  "des-158",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 16)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -3952,7 +3952,7 @@
     {
         "id":  "des-159",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 16)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -3977,7 +3977,7 @@
     {
         "id":  "des-160",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 16)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -4002,7 +4002,7 @@
     {
         "id":  "des-161",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 17)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -4027,7 +4027,7 @@
     {
         "id":  "des-162",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 17)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -4052,7 +4052,7 @@
     {
         "id":  "des-163",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 17)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -4077,7 +4077,7 @@
     {
         "id":  "des-164",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 17)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -4102,7 +4102,7 @@
     {
         "id":  "des-165",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 17)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -4127,7 +4127,7 @@
     {
         "id":  "des-166",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 17)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -4152,7 +4152,7 @@
     {
         "id":  "des-167",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 17)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -4177,7 +4177,7 @@
     {
         "id":  "des-168",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 17)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -4202,7 +4202,7 @@
     {
         "id":  "des-169",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 17)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -4227,7 +4227,7 @@
     {
         "id":  "des-170",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 17)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -4252,7 +4252,7 @@
     {
         "id":  "des-171",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 18)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -4277,7 +4277,7 @@
     {
         "id":  "des-172",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 18)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -4302,7 +4302,7 @@
     {
         "id":  "des-173",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 18)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -4327,7 +4327,7 @@
     {
         "id":  "des-174",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 18)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -4352,7 +4352,7 @@
     {
         "id":  "des-175",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 18)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -4377,7 +4377,7 @@
     {
         "id":  "des-176",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 18)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -4402,7 +4402,7 @@
     {
         "id":  "des-177",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 18)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -4427,7 +4427,7 @@
     {
         "id":  "des-178",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 18)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -4452,7 +4452,7 @@
     {
         "id":  "des-179",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 18)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -4477,7 +4477,7 @@
     {
         "id":  "des-180",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 18)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -4502,7 +4502,7 @@
     {
         "id":  "des-181",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 19)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -4527,7 +4527,7 @@
     {
         "id":  "des-182",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 19)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -4552,7 +4552,7 @@
     {
         "id":  "des-183",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 19)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -4577,7 +4577,7 @@
     {
         "id":  "des-184",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 19)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -4602,7 +4602,7 @@
     {
         "id":  "des-185",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 19)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -4627,7 +4627,7 @@
     {
         "id":  "des-186",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 19)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -4652,7 +4652,7 @@
     {
         "id":  "des-187",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 19)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -4677,7 +4677,7 @@
     {
         "id":  "des-188",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 19)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -4702,7 +4702,7 @@
     {
         "id":  "des-189",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 19)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -4727,7 +4727,7 @@
     {
         "id":  "des-190",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 19)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",
@@ -4752,7 +4752,7 @@
     {
         "id":  "des-191",
         "category":  "Design",
-        "title":  "Biophilic Architecture \u0026 Affordances (Part 20)",
+        "title":  "Biophilic Architecture \u0026 Affordances",
         "subtitle":  "Designing built environments around innate human connection to nature",
         "summary":  "Biophilic design incorporates natural light, organic geometry, vegetation, and natural ventilation into urban structures, proven to lower cortisol levels and boost cognitive performance.",
         "keyTakeaway":  "Architecture is not merely structural protection; it is a biological interface that modulates human neural state.",
@@ -4777,7 +4777,7 @@
     {
         "id":  "des-192",
         "category":  "Design",
-        "title":  "Parametricism \u0026 Algorithmic Spatial Design (Part 20)",
+        "title":  "Parametricism \u0026 Algorithmic Spatial Design",
         "subtitle":  "Using computational algorithms to generate complex adaptive fluid structures",
         "summary":  "Parametricism relies on mathematical functions to manipulate architectural geometries, allowing walls, roofs, and structural grids to morph dynamically according to sun angles, wind loads, and human traffic.",
         "keyTakeaway":  "Design becomes a generative algorithm where structural form emerges from environmental parameters rather than rigid grids.",
@@ -4802,7 +4802,7 @@
     {
         "id":  "des-193",
         "category":  "Design",
-        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles (Part 20)",
+        "title":  "Skeuomorphic Audio Feedback in Electric Vehicles",
         "subtitle":  "Engineering synthetic acoustics for silent electric powertrains",
         "summary":  "As EV drivetrains eliminate mechanical engine noise, psychoacoustic designers engineer artificial soundscapes—skeuomorphic humming, pitch shifts, and synthetic hums—to convey velocity and afford pedestrian safety.",
         "keyTakeaway":  "Sound in silent machines is a functional safety affordance engineered to restore spatial perception.",
@@ -4827,7 +4827,7 @@
     {
         "id":  "des-194",
         "category":  "Design",
-        "title":  "Ergonomics of Zero-Gravity Seating (Part 20)",
+        "title":  "Ergonomics of Zero-Gravity Seating",
         "subtitle":  "Neutral body posture principles derived from orbital spaceflights",
         "summary":  "Developed by NASA, Zero-Gravity seating positions the human body at a 128-degree trunk-to-thigh angle, reducing spinal disc pressure and evenly distributing body weight to eliminate pressure points.",
         "keyTakeaway":  "Ergonomic seating shifts from supporting weight against gravity to suspending muscle groups in anatomical equilibrium.",
@@ -4852,7 +4852,7 @@
     {
         "id":  "des-195",
         "category":  "Design",
-        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism (Part 20)",
+        "title":  "Brutalist Digital Aesthetics \u0026 Web Minimalism",
         "subtitle":  "The raw, unadorned web design movement rejecting corporate polished UI",
         "summary":  "Digital Brutalism strips away gradients, rounded corners, and decorative icons in favor of raw HTML elements, stark typography, monospaced fonts, and high-contrast color palettes.",
         "keyTakeaway":  "Web brutalism celebrates the raw medium of the internet, challenging modern homogenizing design trends.",
@@ -4877,7 +4877,7 @@
     {
         "id":  "des-196",
         "category":  "Design",
-        "title":  "Dark Patterns \u0026 Deceptive Interaction Design (Part 20)",
+        "title":  "Dark Patterns \u0026 Deceptive Interaction Design",
         "subtitle":  "Cognitive exploitation engineered into user experience interfaces",
         "summary":  "Dark patterns exploit human cognitive biases—such as fear of missing out, default bias, and visual obfuscation—to manipulate users into making subscriptions, purchases, or data disclosures against their interest.",
         "keyTakeaway":  "Interface ethics must protect human autonomy against insidious behavioral manipulation patterns.",
@@ -4902,7 +4902,7 @@
     {
         "id":  "des-197",
         "category":  "Design",
-        "title":  "Spatial Computing Affordances \u0026 Volumetric UI (Part 20)",
+        "title":  "Spatial Computing Affordances \u0026 Volumetric UI",
         "subtitle":  "Transitioning flat pixel screens to 3D spatial user interfaces",
         "summary":  "Spatial computing introduces volumetric windows, ray-cast targeting, and eye-tracking focus states, requiring UI designers to solve depth perception, parallax distortion, and hand fatigue (gorilla arm).",
         "keyTakeaway":  "User experience expands from two-dimensional canvas bounds to spatial situational interaction.",
@@ -4927,7 +4927,7 @@
     {
         "id":  "des-198",
         "category":  "Design",
-        "title":  "Haptic Feedback Patterns in Surgical Teleoperation (Part 20)",
+        "title":  "Haptic Feedback Patterns in Surgical Teleoperation",
         "subtitle":  "Tactile sensation synthesis in remote robotic surgeries",
         "summary":  "Surgical teleoperation relies on micro-actuators and vibrotactile arrays to transmit tissue resistance, stiffness, and arterial pulses back to the surgeon\u0027s hand controllers in real time.",
         "keyTakeaway":  "Haptics translate invisible micro-forces into bodily sensation, bridging distance with high-fidelity physical feedback.",
@@ -4952,7 +4952,7 @@
     {
         "id":  "des-199",
         "category":  "Design",
-        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors (Part 20)",
+        "title":  "Chromatic Ergonomics \u0026 Industrial Safety Colors",
         "subtitle":  "Standardized color wavelength perception for high-risk interfaces",
         "summary":  "Chromatic ergonomics studies how high-contrast visual spectrum wavelengths (e.g. 589nm safety yellow, high-chroma orange) trigger instant neural processing in high-stress control rooms and industrial plants.",
         "keyTakeaway":  "Color is a functional perceptual signal designed for instantaneous pre-attentive recognition.",
@@ -4977,7 +4977,7 @@
     {
         "id":  "des-200",
         "category":  "Design",
-        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs (Part 20)",
+        "title":  "Wayfinding \u0026 Spatial Cognition in Complex Hubs",
         "subtitle":  "Visual signage \u0026 architectural environmental cues in transit hubs",
         "summary":  "Wayfinding design uses sightline orientation, progressive disclosure, landmark lighting, and color-coded zones to guide thousands of travelers through complex airports without cognitive overload.",
         "keyTakeaway":  "Effective spatial wayfinding renders complex architecture intuitive through sub-conscious environmental cues.",

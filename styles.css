@@ -941,18 +941,23 @@ body {
   background: var(--current-cat-color);
 }
 
-/* View Mode Button */
-.view-mode-btn {
-  background: rgba(255, 255, 255, 0.08);
-  border: 1px solid var(--bg-card-border);
-  color: var(--text-primary);
-  font-weight: 600;
+/* Custom Webkit Scrollbars for Premium Look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
 }
 
-.view-mode-btn:hover {
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
   background: var(--current-cat-color);
-  color: #fff;
-  border-color: var(--current-cat-color);
 }
 
 /* Category Filter Nav Scroll Arrows */
@@ -990,134 +995,5 @@ body {
   border-color: var(--current-cat-color);
 }
 
-/* Scrollable Feed Container */
-.topics-feed-container {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-  width: 100%;
-  max-width: 880px;
-  margin: 0 auto;
-  padding: 1rem 0 6rem 0;
-}
-
-/* Vertical Main Section Header Cards */
-.section-header-card {
-  background: linear-gradient(135deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02));
-  backdrop-filter: var(--backdrop-blur);
-  border: 1px solid var(--sec-color, var(--current-cat-color));
-  border-left: 6px solid var(--sec-color, var(--current-cat-color));
-  border-radius: var(--radius-lg);
-  padding: 2rem 2.25rem;
-  margin-top: 2.5rem;
-  margin-bottom: 0.5rem;
-  box-shadow: var(--shadow-subtle);
-  scroll-margin-top: 140px; /* Offset for sticky nav headers */
-}
-
-.section-header-card:first-child {
-  margin-top: 0.5rem;
-}
-
-.section-header-top {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 0.75rem;
-}
-
-.section-title {
-  font-family: var(--font-display);
-  font-size: 1.85rem;
-  font-weight: 700;
-  color: var(--text-primary);
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-}
-
-.section-topic-count {
-  font-size: 0.8rem;
-  font-weight: 700;
-  padding: 0.35rem 0.85rem;
-  border-radius: var(--radius-pill);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.section-subtitle {
-  font-size: 0.95rem;
-  color: var(--text-secondary);
-  line-height: 1.5;
-}
-
-/* Feed Card Styling */
-.feed-topic-card {
-  background: var(--bg-card);
-  backdrop-filter: var(--backdrop-blur);
-  border: 1px solid var(--bg-card-border);
-  border-radius: var(--radius-lg);
-  padding: 2.25rem;
-  box-shadow: var(--shadow-subtle);
-  transition: transform 0.3s ease, border-color 0.3s ease;
-  position: relative;
-  scroll-margin-top: 140px;
-}
-
-.feed-topic-card:hover {
-  border-color: var(--current-cat-color);
-  transform: translateY(-2px);
-}
-
-.feed-card-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 1.25rem;
-}
-
-.feed-card-actions {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-top: 1.5rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--bg-card-border);
-}
-
-/* Floating Quick Scroll Controls */
-.floating-scroll-bar {
-  position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  z-index: 99;
-}
-
-.btn-float-scroll {
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  padding: 0.6rem 1rem;
-  background: rgba(18, 22, 31, 0.9);
-  backdrop-filter: blur(12px);
-  border: 1px solid var(--bg-card-border);
-  color: var(--text-primary);
-  border-radius: var(--radius-pill);
-  font-size: 0.85rem;
-  font-weight: 600;
-  cursor: pointer;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-  transition: var(--transition-smooth);
-}
-
-.btn-float-scroll:hover {
-  background: var(--current-cat-color);
-  color: #fff;
-  border-color: var(--current-cat-color);
-  transform: translateY(-2px);
-}
 
 
