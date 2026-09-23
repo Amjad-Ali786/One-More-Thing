@@ -27,7 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
   let currentUtterance = null;
   let isSpeaking = false;
   let audioCtx = null;
-  let wheelTimeout = null;
 
   // --- DOM Elements ---
   const topicCard = document.getElementById('topicCard');
@@ -239,21 +238,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (btnPrevTopic) btnPrevTopic.addEventListener('click', () => navigateSequential('prev'));
   if (btnNextTopic) btnNextTopic.addEventListener('click', () => navigateSequential('next'));
   if (btnLastTopic) btnLastTopic.addEventListener('click', () => navigateSequential('last'));
-
-  // --- Mouse Wheel Topic Navigation ---
-  if (topicCard) {
-    topicCard.addEventListener('wheel', (e) => {
-      if (wheelTimeout) return;
-      if (Math.abs(e.deltaY) > 25) {
-        wheelTimeout = setTimeout(() => { wheelTimeout = null; }, 350);
-        if (e.deltaY > 0) {
-          navigateSequential('next');
-        } else {
-          navigateSequential('prev');
-        }
-      }
-    }, { passive: true });
-  }
 
   // --- Drawer Scroll to Top / Bottom ---
   if (btnScrollTop) {
