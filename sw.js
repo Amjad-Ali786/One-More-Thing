@@ -1,19 +1,11 @@
-const CACHE_NAME = 'onemorething-v1';
+const CACHE_NAME = 'onemorething-v2';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './topics.js',
   './app.js',
   './manifest.json',
-  './data/design.js',
-  './data/philosophy.js',
-  './data/ethics.js',
-  './data/morals.js',
-  './data/cars.js',
-  './data/psychology.js',
-  './data/art_movements.js',
-  './data/art_styles.js'
+  './api/topics.json'
 ];
 
 self.addEventListener('install', (event) => {

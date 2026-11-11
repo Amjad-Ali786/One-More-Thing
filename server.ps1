@@ -19,46 +19,52 @@ try {
         $request = $context.Request
         $response = $context.Response
 
-        $response.Headers.Add("Access-Control-Allow-Origin", "*")
-        $response.Headers.Add("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
-        $response.Headers.Add("Access-Control-Allow-Headers", "Content-Type")
+        try {
+            $response.Headers.Add("Access-Control-Allow-Origin", "*")
+            $response.Headers.Add("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+            $response.Headers.Add("Access-Control-Allow-Headers", "Content-Type")
 
-        if ($request.HttpMethod -eq "OPTIONS") {
-            $response.StatusCode = 200
-            $response.OutputStream.Close()
-            continue
-        }
-
-        $relativePath = $request.Url.LocalPath.TrimStart('/')
-        if ([string]::IsNullOrEmpty($relativePath)) {
-            $relativePath = "index.html"
-        }
-
-        $filePath = Join-Path $root $relativePath
-
-        if (Test-Path $filePath -PathType Leaf) {
-            $bytes = [System.IO.File]::ReadAllBytes($filePath)
-            
-            # MIME types
-            $ext = [System.IO.Path]::GetExtension($filePath).ToLower()
-            switch ($ext) {
-                ".html" { $response.ContentType = "text/html; charset=utf-8" }
-                ".css"  { $response.ContentType = "text/css; charset=utf-8" }
-                ".js"   { $response.ContentType = "application/javascript; charset=utf-8" }
-                ".json" { $response.ContentType = "application/json; charset=utf-8" }
-                ".svg"  { $response.ContentType = "image/svg+xml" }
-                ".png"  { $response.ContentType = "image/png" }
-                default { $response.ContentType = "application/octet-stream" }
+            if ($request.HttpMethod -eq "OPTIONS") {
+                $response.StatusCode = 200
+                $response.OutputStream.Close()
+                continue
             }
 
-            $response.ContentLength64 = $bytes.Length
-            $response.OutputStream.Write($bytes, 0, $bytes.Length)
-        } else {
-            $response.StatusCode = 404
-            $notFound = [System.Text.Encoding]::UTF8.GetBytes("404 Not Found")
-            $response.OutputStream.Write($notFound, 0, $notFound.Length)
+            $relativePath = $request.Url.LocalPath.TrimStart('/')
+            if ([string]::IsNullOrEmpty($relativePath)) {
+                $relativePath = "index.html"
+            }
+
+            $filePath = Join-Path $root $relativePath
+
+            if (Test-Path $filePath -PathType Leaf) {
+                $bytes = [System.IO.File]::ReadAllBytes($filePath)
+                
+                # MIME types
+                $ext = [System.IO.Path]::GetExtension($filePath).ToLower()
+                switch ($ext) {
+                    ".html" { $response.ContentType = "text/html; charset=utf-8" }
+                    ".css"  { $response.ContentType = "text/css; charset=utf-8" }
+                    ".js"   { $response.ContentType = "application/javascript; charset=utf-8" }
+                    ".json" { $response.ContentType = "application/json; charset=utf-8" }
+                    ".svg"  { $response.ContentType = "image/svg+xml" }
+                    ".png"  { $response.ContentType = "image/png" }
+                    default { $response.ContentType = "application/octet-stream" }
+                }
+
+                $response.ContentLength64 = $bytes.LongLength
+                $response.OutputStream.Write($bytes, 0, $bytes.Length)
+            } else {
+                $response.StatusCode = 404
+                $notFound = [System.Text.Encoding]::UTF8.GetBytes("404 Not Found")
+                $response.ContentLength64 = $notFound.LongLength
+                $response.OutputStream.Write($notFound, 0, $notFound.Length)
+            }
+        } catch {
+            Write-Host "Request handling error: $_" -ForegroundColor Yellow
+        } finally {
+            try { $response.OutputStream.Close() } catch {}
         }
-        $response.OutputStream.Close()
     }
 } catch {
     Write-Host "Server error: $_" -ForegroundColor Red
